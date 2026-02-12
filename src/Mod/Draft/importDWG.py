@@ -23,7 +23,7 @@ https://knowledge.autodesk.com/support/autocad/downloads/
 # flake8 --ignore=E226,E266,E401,W503
 
 # ***************************************************************************
-# *   Copyright (c) 2009 Yorik van Havre <yorik@uncreated.net>              *
+# SPDX-FileCopyrightText: 2009 Yorik van Havre <yorik@uncreated.net>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

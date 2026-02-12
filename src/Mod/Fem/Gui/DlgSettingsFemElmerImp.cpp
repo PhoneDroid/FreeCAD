@@ -1,9 +1,10 @@
+// SPDX-FileCopyrightText: 2015 FreeCAD Developers
+// SPDX-FileCopyrightText: Bernd Hahnebach <bernd@bimstatik.ch>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// Based on src/Mod/Fem/Gui/DlgSettingsFemCcxImp.cpp
+
 /***************************************************************************
- *   Copyright (c) 2015 FreeCAD Developers                                 *
- *   Author: Bernd Hahnebach <bernd@bimstatik.ch>                          *
- *   Based on src/Mod/Fem/Gui/DlgSettingsFemCcxImp.cpp                     *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

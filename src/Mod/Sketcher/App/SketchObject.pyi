@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -20,7 +21,6 @@ class SketchObject(Part2DObject):
     """
     Represents a sketch object
 
-    Author: Juergen Riegel
     Licence: LGPL
     """
 

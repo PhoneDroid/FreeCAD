@@ -1,9 +1,10 @@
+// SPDX-FileCopyrightText: 2015 FreeCAD Developers
+// SPDX-FileCopyrightText: WandererFan <wandererfan@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// *   Based on src/Mod/FEM/Gui/DlgSettingsFEMImp.cpp                        *
+
 /***************************************************************************
- *   Copyright (c) 2015 FreeCAD Developers                                 *
- *   Author: WandererFan <wandererfan@gmail.com>                           *
- *   Based on src/Mod/FEM/Gui/DlgSettingsFEMImp.cpp                        *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

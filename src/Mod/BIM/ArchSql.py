@@ -1,10 +1,8 @@
 # SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: 2019 Daniel Furtlehner (furti)
+# SPDX-FileCopyrightText: 2025 The FreeCAD Project
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-#
-# Copyright (c) 2019 Daniel Furtlehner (furti)
-# Copyright (c) 2025 The FreeCAD Project
-#
 # This file is a derivative work of the sql_parser.py file from the
 # FreeCAD-Reporting workbench (https://github.com/furti/FreeCAD-Reporting).
 # As per the terms of the original MIT license, this derivative work is also

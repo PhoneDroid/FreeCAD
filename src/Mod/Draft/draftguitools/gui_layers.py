@@ -2,9 +2,9 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2014 Yorik van Havre <yorik@uncreated.net>              *
-# *   Copyright (c) 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de> *
-# *   Copyright (c) 2025 FreeCAD Project Association                        *
+# SPDX-FileCopyrightText: 2014 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
+# SPDX-FileCopyrightText: 2025 FreeCAD Project Association
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

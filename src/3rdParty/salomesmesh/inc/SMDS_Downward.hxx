@@ -1,4 +1,5 @@
-// Copyright (C) 2010-2015  CEA/DEN, EDF R&D, OPEN CASCADE
+// SPDX-FileCopyrightText: 2010-2015  CEA/DEN, EDF R&D, OPEN CASCADE
+// SPDX-FileCopyrightText: 2010 prascle
 //
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public
@@ -15,11 +16,6 @@
 // Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA
 //
 // See http://www.salome-platform.org/ or email : webmaster.salome@opencascade.com
-//
-
-// File: SMDS_Downward.hxx
-// Created: Jun 3, 2010
-// Author: prascle
 
 #ifndef SMDS_DOWNWARD_HXX_
 #define SMDS_DOWNWARD_HXX_

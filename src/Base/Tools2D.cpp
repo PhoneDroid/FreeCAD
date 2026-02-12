@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2005 Imetric 3D GmbH 
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2005 Imetric 3D GmbH                                    *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

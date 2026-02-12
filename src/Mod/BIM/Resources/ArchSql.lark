@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 //
-// Copyright (c) 2019 Daniel Furtlehner (furti)
-// Copyright (c) 2025 The FreeCAD Project
+// SPDX-FileCopyrightText: 2019 Daniel Furtlehner (furti)
+// SPDX-FileCopyrightText: 2025 The FreeCAD Project
 //
 // This file is a derivative work of the sql_grammar.peg file from the
 // FreeCAD-Reporting workbench (https://github.com/furti/FreeCAD-Reporting).

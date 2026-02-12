@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: 2009 Dan Heeks
+// SPDX-FileCopyrightText: 2018 wandererfan
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 // dxf.h
-// Copyright (c) 2009, Dan Heeks
 // This program is released under the BSD license. See the file COPYING for details.
-// modified 2018 wandererfan
 
 #pragma once
 
@@ -141,7 +141,7 @@ struct SplineData
 
 //***************************
 // data structures for writing
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 struct point3D
 {
     double x;

@@ -4,7 +4,7 @@
 
 # (c) 2010 Werner Mayer LGPL
 
-__author__ = "Werner Mayer <wmayer[at]users.sourceforge.net>"
+__author__ = "Werner Mayer <wmayer@users.sourceforge.net>"
 
 # Formulas:
 # M2 = P + b*r2 + t*u

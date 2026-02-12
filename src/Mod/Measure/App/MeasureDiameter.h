@@ -1,8 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Kavin Teenakul <andythe_great@protonmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2024 Kavin Teenakul <andythe_great@protonmail.com>                *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   FreeCAD is free software: you can redistribute it and/or modify it    *
  *   under the terms of the GNU Lesser General Public License as           *
  *   published by the Free Software Foundation, either version 2.1 of the  *

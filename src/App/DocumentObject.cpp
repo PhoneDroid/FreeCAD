@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2011 Jürgen Riegel <juergen.riegel@web.de>
+// SPDX-FileCopyrightText: 2011 Werner Mayer <wmayer@users.sourceforge.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2011 Jürgen Riegel <juergen.riegel@web.de>              *
- *   Copyright (c) 2011 Werner Mayer <wmayer[at]users.sourceforge.net>     *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

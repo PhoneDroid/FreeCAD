@@ -1,7 +1,8 @@
+/* SPDX-FileCopyrightText: 2011 Jürgen Riegel */
+
 ISO-10303-21;
 HEADER;
 /* Schenkel.stp
- * Copyright (C) 2011, Juergen Riegel
  *
  * This work is licensed under the [Creative Commons CC-BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
  *

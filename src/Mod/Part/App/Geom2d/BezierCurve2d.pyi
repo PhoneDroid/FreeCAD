@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -21,7 +22,6 @@ class BezierCurve2d(Curve2d):
         -- a non-rational Bezier curve is defined by a table of poles (also called control points)
         -- a rational Bezier curve is defined by a table of poles with varying weights
 
-    Author: Werner Mayer (wmayer@users.sourceforge.net)
     Licence: LGPL
     """
 

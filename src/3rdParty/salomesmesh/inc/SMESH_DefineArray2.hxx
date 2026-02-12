@@ -1,7 +1,5 @@
-// File:      NCollection_DefineArray2.hxx
-// Created:   15.04.02 17:05:16
-// Author:    Alexander Kartomin (akm)
-//            <a-kartomin@opencascade.com>
+// SPDX-FileCopyrightText: 2002 Alexander Kartomin <a-kartomin@opencascade.com>
+
 //            Automatically created from NCollection_Array2.hxx by GAWK
 // Copyright: Open Cascade 2002
 //            

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Mattéo Grellier <matteogrellier@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -19,7 +20,6 @@ class BlendCurve(PyObjectBase):
     Create a BlendCurve that interpolate 2 BlendPoints.
         curve = BlendCurve(BlendPoint1, BlendPoint2)
 
-    Author: Mattéo Grellier (matteogrellier@gmail.com)
     License: LGPL-2.1-or-later
     """
 

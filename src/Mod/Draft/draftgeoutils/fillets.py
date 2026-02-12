@@ -1,9 +1,12 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2009,2010 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2009,2010 Ken Cline <cline@frii.com>
+# SPDX-FileCopyrightText: Jacques-Antoine Gaudin
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2009, 2010 Yorik van Havre <yorik@uncreated.net>        *
-# *   Copyright (c) 2009, 2010 Ken Cline <cline@frii.com>                   *
+# SPDX-FileCopyrightText: 2009,2010 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2009,2010 Ken Cline <cline@frii.com>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -45,8 +48,6 @@ Part = lz.LazyLoader("Part", globals(), "Part")
 
 def fillet(lEdges, r, chamfer=False):
     """Return a list of sorted edges describing a round corner.
-
-    Author: Jacques-Antoine Gaudin
     """
 
     def getCurveType(edge, existingCurveType=None):

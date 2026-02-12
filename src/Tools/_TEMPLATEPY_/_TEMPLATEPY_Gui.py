@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # FreeCAD tools of the _TEMPLATEPY_ workbench
-# (c) 2001 Juergen Riegel
+# (c) 2001 Jürgen Riegel
 # License LGPL
 
 import FreeCAD, FreeCADGui

@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2015 Eivind Kvedalen <eivind@kvedalen.name>
+// SPDX-FileCopyrightText: 2019 Zheng Lei <realthunder.dev@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /****************************************************************************
- *   Copyright (c) 2015 Eivind Kvedalen <eivind@kvedalen.name>              *
- *   Copyright (c) 2019 Zheng Lei (realthunder) <realthunder.dev@gmail.com> *
  *                                                                          *
  *   This library is free software; you can redistribute it and/or          *
  *   modify it under the terms of the GNU Library General Public            *

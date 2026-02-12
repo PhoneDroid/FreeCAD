@@ -1,12 +1,13 @@
+// SPDX-FileCopyrightText: 2015,2023 FreeCAD Developers
+// SPDX-FileCopyrightText: Michael Hindley <hindlemp@eskom.co.za>
+// SPDX-FileCopyrightText: Ruan Olwagen <olwager@eskom.co.za>
+// SPDX-FileCopyrightText: Oswald van Ginkel <vginkeo@eskom.co.za>
+// SPDX-FileCopyrightText: Uwe Stöhr <uwestoehr@lyx.org>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// Based on Force constraint by Jan Rheinländer
+
 /***************************************************************************
- *   Copyright (c) 2015, 2023 FreeCAD Developers                           *
- *   Authors: Michael Hindley <hindlemp@eskom.co.za>                       *
- *            Ruan Olwagen <olwager@eskom.co.za>                           *
- *            Oswald van Ginkel <vginkeo@eskom.co.za>                      *
- *            Uwe Stöhr <uwestoehr@lyx.org>                                *
- *   Based on Force constraint by Jan Rheinländer                          *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

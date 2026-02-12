@@ -3,7 +3,7 @@
 
 # /****************************************************************************
 #                                                                           *
-#    Copyright (c) 2023 Ondsel <development@ondsel.com>                     *
+# SPDX-FileCopyrightText: 2023 Ondsel <development@ondsel.com>
 #                                                                           *
 #    FreeCAD is free software: you can redistribute it and/or modify it     *
 #    under the terms of the GNU Lesser General Public License as            *

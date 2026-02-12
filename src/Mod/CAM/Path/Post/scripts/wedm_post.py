@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2014 sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2014 sliptonic <shopinthewoods@gmail.com>               *
 # *                                                                         *
 # *   Reabased changes from relative_post.py to linuxcnc_post.py            *
 # *   and updated functionality for old EDM machines by alromh87            *

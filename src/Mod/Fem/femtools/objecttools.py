@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 
 # ***************************************************************************
-# *   Copyright (c) 2026 Mario Passaglia <mpassaglia[at]cbc.uba.ar>         *
+# SPDX-FileCopyrightText: 2026 Mario Passaglia <mpassaglia@cbc.uba.ar>
 # *                                                                         *
 # *   This file is part of FreeCAD.                                         *
 # *                                                                         *

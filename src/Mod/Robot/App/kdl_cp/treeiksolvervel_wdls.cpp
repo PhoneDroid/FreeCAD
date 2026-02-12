@@ -1,12 +1,6 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2008 rubensmits
 // SPDX-FileNotice: Part of the FreeCAD project.
-
-/*
- * TreeIkSolverVel_wdls.cpp
- *
- *  Created on: Nov 28, 2008
- *      Author: rubensmits
- */
 
 #include "treeiksolvervel_wdls.hpp"
 #include "utilities/svd_eigen_HH.hpp"

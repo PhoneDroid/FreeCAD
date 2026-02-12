@@ -1,7 +1,7 @@
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2006 Werner Mayer <wmayer[at]users.sourceforge.net>     *
+// SPDX-FileCopyrightText: 2006 Werner Mayer <wmayer@users.sourceforge.net>
  *                                                                         *
  *   This file is part of the FreeCAD CAx development system.              *
  *                                                                         *

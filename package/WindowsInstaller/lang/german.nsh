@@ -1,9 +1,9 @@
-﻿; SPDX-FileNotice: Part of the FreeCAD project.
+﻿; SPDX-FileCopyrightText: Uwe Stöhr
+; SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
 FreeCAD Installer Language File
 Language: German
-Author: Uwe Stöhr
 */
 
 !insertmacro LANGFILE_EXT "German"

@@ -1,8 +1,7 @@
 #! python
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2009 Jürgen Riegel <Jürgen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
-
-# (c) 2009 Juergen Riegel GPL
 
 Usage = """examplePy2wiki - generating a wiki text out of a python example
 
@@ -19,9 +18,6 @@ The python comments get translated to text and the code blocks get intended to
 show up us code in the wiki.
 
 
-Author:
-  (c) 2009 Juergen Riegel
-  juergen.riegel@web.de
   Licence: GPL V2
 
 Version:

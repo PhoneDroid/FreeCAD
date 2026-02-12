@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -62,7 +63,6 @@ class HLRBRep_Algo(PyObjectBase):
       visualized by comparing each face in the shape with every other face in the
       same shape.
 
-    Author: Werner Mayer (wmayer@users.sourceforge.net)
     Licence: LGPL
     """
 

@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 2015 Yorik van Havre <yorik@uncreated.net>
+// SPDX-FileCopyrightText: 2016 WandererFan <wandererfan@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2015 Yorik van Havre <yorik@uncreated.net>              *
- *   Copyright (c) 2016 WandererFan <wandererfan@gmail.com>                *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

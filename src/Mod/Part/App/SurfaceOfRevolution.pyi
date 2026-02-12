@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -22,7 +23,6 @@ class SurfaceOfRevolution(GeometrySurface):
     """
     Describes a surface of revolution
 
-    Author: Werner Mayer (wmayer@users.sourceforge.net)
     Licence: LGPL
     """
 

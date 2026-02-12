@@ -1,10 +1,10 @@
+// SPDX-FileCopyrightText: 2014-2023 3Dconnexion
+
 #ifndef ISpace3D_HPP_INCLUDED
 #define ISpace3D_HPP_INCLUDED
 // <copyright file="ISpace3D.hpp" company="3Dconnexion">
 // ------------------------------------------------------------------------------------------------
 // This file is part of the FreeCAD CAx development system.
-//
-// Copyright (c) 2014-2023 3Dconnexion.
 //
 // This source code is released under the GNU Library General Public License, (see "LICENSE").
 // ------------------------------------------------------------------------------------------------

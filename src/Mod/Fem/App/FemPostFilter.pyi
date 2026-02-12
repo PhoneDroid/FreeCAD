@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Stefan Tröger <stefantroeger@gmx.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -20,7 +21,6 @@ class FemPostFilter(FemPostObject):
     """
     The FemPostFilter class.
 
-    Author: Stefan Tröger (stefantroeger@gmx.net)
     License: LGPL-2.1-or-later
     """
 

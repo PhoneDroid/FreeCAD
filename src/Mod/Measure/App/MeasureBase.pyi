@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: David Friedli <david@friedli-be.ch>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -16,6 +17,5 @@ class MeasureBase(DocumentObject):
     """
     User documentation here
 
-    Author: David Friedli(hlorus) (david@friedli-be.ch)
     License: LGPL-2.1-or-later
     """

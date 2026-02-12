@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -19,7 +20,6 @@ class ArcOfParabola2d(ArcOfConic2d):
     """
     Describes a portion of a parabola.
 
-    Author: Werner Mayer
     Licence: LGPL
     """
 

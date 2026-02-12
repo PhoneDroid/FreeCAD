@@ -1,9 +1,10 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2013 Panagiotis Mavrogiorgos
+# SPDX-FileCopyrightText: 2018 sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # -*- coding: utf-8 -*
 # ***************************************************************************
-# *   Copyright (c) 2018 sliptonic <shopinthewoods@gmail.com>               *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -23,7 +24,6 @@
 # *                                                                         *
 # *   Bilinear interpolation code modified heavily from the interpolation   *
 # *   library https://github.com/pmav99/interpolation                      *
-# *   Copyright (c) 2013 by Panagiotis Mavrogiorgos                         *
 # *                                                                         *
 # ***************************************************************************
 import FreeCAD

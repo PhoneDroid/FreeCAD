@@ -1,7 +1,8 @@
-// Copyright (C) 2007-2015  CEA/DEN, EDF R&D, OPEN CASCADE
+// SPDX-FileCopyrightText: 2004 Oksana TCHEBANOVA ota@localhost.localdomain
+// SPDX-FileCopyrightText: 2007-2015 CEA/DEN , EDF R&D , OPEN CASCADE
 //
-// Copyright (C) 2003-2007  OPEN CASCADE, EADS/CCR, LIP6, CEA/DEN,
-// CEDRAT, EDF R&D, LEG, PRINCIPIA R&D, BUREAU VERITAS
+// SPDX-FileCopyrightText: 2003-2007 CEA/DEN , EDF R&D , OPEN CASCADE , EADS/CCR , LEG
+// SPDX-FileCopyrightText: 2003-2007 LIP6 , CEDRAT , PRINCIPIA R&D , BUREAU VERITAS
 //
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public
@@ -21,9 +22,6 @@
 //
 
 // File:        Utils_ExceptHandler.cxx
-// Created:     Mon Mar 15 10:23:41 2004
-// Author:      Oksana TCHEBANOVA
-//              <ota@localhost.localdomain>
 //
 #include "Utils_ExceptHandlers.hxx"
 #include "Utils_SALOME_Exception.hxx"

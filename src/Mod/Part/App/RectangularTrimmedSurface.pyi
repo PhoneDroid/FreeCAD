@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -29,7 +30,6 @@ class RectangularTrimmedSurface(GeometrySurface):
     is modified the trimmed surface is not changed. Consequently, the trimmed surface does not
     necessarily have the same orientation as the basis surface.
 
-    Author: Werner Mayer (wmayer@users.sourceforge.net)
     Licence: LGPL
     """
 

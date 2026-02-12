@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2015 Stefan Tröger <stefantroeger@gmx.net>
+// SPDX-FileCopyrightText: 2015 Alexander Golubev <fatzer2@gmail.com>
+// SPDX-FileCopyrightText: 2024 Ondsel (PL Boyer) <development@ondsel.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2015 Stefan Tröger <stefantroeger@gmx.net>              *
- *   Copyright (c) 2015 Alexander Golubev (Fat-Zer) <fatzer2@gmail.com>    *
- *   Copyright (c) 2024 Ondsel (PL Boyer) <development@ondsel.com>         *
  *                                                                         *
  *   FreeCAD is free software: you can redistribute it and/or modify it    *
  *   under the terms of the GNU Lesser General Public License as           *

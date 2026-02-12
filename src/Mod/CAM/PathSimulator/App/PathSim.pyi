@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Shai Seger <shaise@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -27,7 +28,6 @@ class PathSim(BaseClass):
 
     Create a path simulator object
 
-    Author: Shai Seger (shaise_at_g-mail)
     License: LGPL-2.1-or-later
     """
 

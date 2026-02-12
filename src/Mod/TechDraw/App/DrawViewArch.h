@@ -1,7 +1,7 @@
 // SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-FileCopyrightText: 2016 York van Havre <yorik@uncreated.net>
 
 /***************************************************************************
- *   Copyright (c) 2016 York van Havre <yorik@uncreated.net>               *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

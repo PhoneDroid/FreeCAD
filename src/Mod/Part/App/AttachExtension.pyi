@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: DeepSOIC <vv.titov@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -17,7 +18,6 @@ class AttachExtension(DocumentObjectExtension):
     """
     This object represents an attachable object with OCC shape.
 
-    Author: DeepSOIC (vv.titov@gmail.com)
     Licence: LGPL
     """
 

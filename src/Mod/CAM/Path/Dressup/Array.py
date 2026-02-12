@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2015 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2025 phaseloop <phaseloop@protonmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2015 Yorik van Havre <yorik@uncreated.net>              *
-# *   Reimplemented as dressup in 2025  phaseloop <phaseloop@protonmail.com *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
 # *   as published by the Free Software Foundation; either version 2 of     *

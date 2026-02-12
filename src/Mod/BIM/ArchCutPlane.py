@@ -3,9 +3,9 @@
 
 # *****************************************************************************
 # *                                                                           *
-# *   Copyright (c) 2014 Jonathan Wiedemann <wood.galaxy@gmail.com> (cutplan) *
-# *   Copyright (c) 2019 Jerome Laverroux <jerome.laverroux@free.fr> (cutline)*
-# *   Copyright (c) 2023 FreeCAD Project Association                          *
+# SPDX-FileCopyrightText: 2014 Jonathan Wiedemann <wood.galaxy@gmail.com>
+# SPDX-FileCopyrightText: 2019 Jerome Laverroux <jerome.laverroux@free.fr>
+# SPDX-FileCopyrightText: 2023 FreeCAD Project Association
 # *                                                                           *
 # *   FreeCAD is free software: you can redistribute it and/or modify it      *
 # *   under the terms of the GNU Lesser General Public License as             *

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Eivind Kvedalen <eivind@kvedalen.name>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -15,6 +16,5 @@ class PropertyRowHeights(Persistence):
     """
     Internal spreadsheet object
 
-    Author: Eivind Kvedalen (eivind@kvedalen.name)
     License: LGPL-2.1-or-later
     """

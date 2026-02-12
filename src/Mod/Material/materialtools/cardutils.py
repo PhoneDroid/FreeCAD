@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2019 Bernd Hahnebach <bernd@bimstatik.org>              *
+# SPDX-FileCopyrightText: 2019 Bernd Hahnebach <bernd@bimstatik.org>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -428,7 +428,7 @@ def create_mat_template_card(write_group_section=True):
     template_data = get_material_template()
     f = open(template_card, "w")
     f.write('; TEMPLATE\n')
-    f.write('; (c) 2013-2015 Juergen Riegel (CC-BY 3.0)\n')
+    f.write('; (c) 2013-2015 Jürgen Riegel (CC-BY 3.0)\n')
     f.write('; information about the content of such cards can be found on the wiki:\n')
     f.write('; https://www.freecad.org/wiki/Material\n')
     f.write(': this template card was created by FreeCAD ' + rev + '\n\n')

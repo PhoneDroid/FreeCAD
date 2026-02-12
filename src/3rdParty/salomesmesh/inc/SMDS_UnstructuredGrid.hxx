@@ -1,5 +1,5 @@
-// Copyright (C) 2010-2015  CEA/DEN, EDF R&D, OPEN CASCADE
-//
+// SPDX-FileCopyrightText: 2009 prascle
+// SPDX-FileCopyrightText: 2010-2015  CEA/DEN, EDF R&D, OPEN CASCADE
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public
 // License as published by the Free Software Foundation; either
@@ -18,8 +18,6 @@
 //
 
 // File:    SMDS_UnstructuredGrid.hxx
-// Author:  prascle
-// Created: September 16, 2009, 10:28 PM
 
 #ifndef _SMDS_UNSTRUCTUREDGRID_HXX
 #define _SMDS_UNSTRUCTUREDGRID_HXX

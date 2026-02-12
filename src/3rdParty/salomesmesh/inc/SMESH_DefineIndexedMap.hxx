@@ -1,8 +1,5 @@
-// File:        NCollection_DefineIndexedMap.hxx
-// Created:     Thu Apr 24 15:02:53 2002
-// Author:      Alexander KARTOMIN (akm)
-//              <akm@opencascade.com>
-//
+// SPDX-FileCopyrightText: 2024 Alexander KARTOMIN <akm@opencascade.com>
+
 // Purpose:     An indexed map is used to  store  keys and to bind
 //              an index to them.  Each new key stored in  the map
 //              gets an index.  Index are incremented  as keys are

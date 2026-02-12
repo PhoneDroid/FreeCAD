@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.0-or-later
+// SPDX-FileCopyrightText: 2024 wandererfan <wandererfan@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2024 wandererfan <wandererfan at gmail dot com>         *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

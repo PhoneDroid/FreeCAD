@@ -1,13 +1,12 @@
 // SPDX-License-Identifier: BSL-1.0
+// SPDX-FileCopyrightText: 2010-2017 Angus Johnson
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*******************************************************************************
  *                                                                              *
- * Author    :  Angus Johnson                                                   *
  * Version   :  6.4.2                                                           *
  * Date      :  27 February 2017                                                *
  * Website   :  http://www.angusj.com                                           *
- * Copyright :  Angus Johnson 2010-2017                                         *
  *                                                                              *
  * License:                                                                     *
  * Use, modification & distribution is subject to Boost Software License Ver 1. *

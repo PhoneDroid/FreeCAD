@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 2005 Werner Mayer <wmayer@users.sourceforge.net>
+// SPDX-FileCopyrightText: 2013 Luke Parry <l.parry@warwick.ac.uk>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2005 Werner Mayer <wmayer[at]users.sourceforge.net>     *
- *   Copyright (c) 2013 Luke Parry <l.parry@warwick.ac.uk>                 *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

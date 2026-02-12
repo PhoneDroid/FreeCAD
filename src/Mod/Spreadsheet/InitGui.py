@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2013 Eivind Kvedalen <eivind@kvedalen.name>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2002,2003 Juergen Riegel <juergen.riegel@web.de>        *
-# *   Copyright (c) 2013 Eivind Kvedalen <eivind@kvedalen.name>             *
+# SPDX-FileCopyrightText: 2002,2003 Jürgen Riegel <juergen.riegel@web.de>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU General Public License (GPL)            *

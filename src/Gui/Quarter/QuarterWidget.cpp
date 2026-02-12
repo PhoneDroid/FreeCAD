@@ -1,7 +1,7 @@
+// SPDX-CopyrightText: Kongsberg Oil & Gas Technologies AS
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /**************************************************************************\
- * Copyright (c) Kongsberg Oil & Gas Technologies AS
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without

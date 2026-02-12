@@ -3,9 +3,9 @@
 
 # -*- coding: utf8 -*-
 # ***************************************************************************
-# *   Copyright (c) 2009 Yorik van Havre <yorik@uncreated.net>              *
-# *   Copyright (c) 2018 George Shuklin (amarao)                            *
-# *   Copyright (c) 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de> *
+# SPDX-FileCopyrightText: 2009 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2018 George Shuklin (amarao)
+# SPDX-FileCopyrightText: 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

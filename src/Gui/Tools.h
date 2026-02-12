@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 2020 Werner Mayer <wmayer@users.sourceforge.net>
+// SPDX-FileCopyrightText: 2025 Kacper Donat <kacper@kadet.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2020 Werner Mayer <wmayer[at]users.sourceforge.net>     *
- *   Copyright (c) 2025 Kacper Donat <kacper@kadet.net>                     *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

@@ -1,17 +1,7 @@
+// SPDX-FileCopyrightText: 2007 Loic MARECHAL
 
-
-/*----------------------------------------------------------*/
-/*                                                                                                                      */
-/*                                              LIBMESH V 5.46                                          */
-/*                                                                                                                      */
-/*----------------------------------------------------------*/
-/*                                                                                                                      */
-/*      Description:            handle .meshb file format I/O           */
-/*      Author:                         Loic MARECHAL                                           */
-/*      Creation date:          feb 16 2007                                                     */
-/*      Last modification:      dec 09 2011                                                     */
-/*                                                                                                                      */
-/*----------------------------------------------------------*/
+// LIBMESH V 5.46
+// handle .meshb file format I/O
 
 
 /*----------------------------------------------------------*/

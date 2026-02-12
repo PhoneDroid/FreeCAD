@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel <FreeCAD@juergen-riegel.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -26,7 +27,6 @@ class Quantity(PyObjectBase):
     Quantity(Quantity) -- copy constructor
     Quantity(string) -- arbitrary mixture of numbers and chars defining a Quantity
 
-    Author: Juergen Riegel (FreeCAD@juergen-riegel.net)
     Licence: LGPL
     """
 

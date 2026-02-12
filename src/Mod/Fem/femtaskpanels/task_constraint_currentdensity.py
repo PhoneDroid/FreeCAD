@@ -1,8 +1,8 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2023 Uwe Stöhr <uwestoehr@lyx.org>                      *
-# *   Copyright (c) 2025 Mario Passaglia <mpassaglia[at]cbc.uba.ar>         *
+# SPDX-FileCopyrightText: 2023 Uwe Stöhr <uwestoehr@lyx.org>
+# SPDX-FileCopyrightText: 2025 Mario Passaglia <mpassaglia@cbc.uba.ar>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

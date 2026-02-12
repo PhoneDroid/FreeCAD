@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 2014 Stefan Tröger <stefantroeger@gmx.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
  * Extends the QuarterWidget with all functions the SoQtViewer has
- * Copyright (c) 2014 Stefan Tröger <stefantroeger@gmx.net>
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public

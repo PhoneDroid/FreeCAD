@@ -1,11 +1,10 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2002 Jürgen Riegel <juergen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # FreeCAD init script of the Import module
-# (c) 2001 Juergen Riegel
 
 # ***************************************************************************
-# *   Copyright (c) 2002 Juergen Riegel <juergen.riegel@web.de>             *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

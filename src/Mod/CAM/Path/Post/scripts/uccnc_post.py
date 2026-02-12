@@ -1,12 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2014 sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *                                                                         *
-# *   based upon linuxcnc_post.py (c) sliptonic (shopinthewoods@gmail.com)  *
-# *                                                                         *
-# *   changed, but not enough to claim copyrights 2019-2021                 *
-# *   maintainer: A.H.M. Steenveld                                          *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

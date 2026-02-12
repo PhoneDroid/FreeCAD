@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Zheng Lei <realthunder.dev@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -10,7 +11,6 @@ class ViewProviderLink(ViewProviderDocumentObject):
     """
     This is the ViewProviderLink class
 
-    Author: Zheng, Lei (realthunder.dev@gmail.com)
     Licence: LGPL
     """
 

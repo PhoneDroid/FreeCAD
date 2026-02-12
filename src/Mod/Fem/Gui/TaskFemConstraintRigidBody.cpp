@@ -1,8 +1,7 @@
+// SPDX-FileCopyrightText: 2022 Ajinkya Dahale <dahale.a.p@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2022 Ajinkya Dahale <dahale.a.p@gmail.com>              *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
  *   License as published by the Free Software Foundation; either          *

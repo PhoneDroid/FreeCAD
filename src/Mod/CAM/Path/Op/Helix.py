@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2016 Lorenz Hüdepohl <dev@stellardeath.org>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2016 Lorenz Hüdepohl <dev@stellardeath.org>             *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -37,7 +37,7 @@ __title__ = "CAM Helix Operation"
 __author__ = "Lorenz Hüdepohl"
 __url__ = "https://www.freecad.org"
 __doc__ = "Class and implementation of Helix Drill operation"
-__contributors__ = "russ4262 (Russell Johnson)"
+__contributors__ = "russ4262 <Russell Johnson>"
 __created__ = "2016"
 __scriptVersion__ = "1b testing"
 __lastModified__ = "2019-07-12 09:50 CST"

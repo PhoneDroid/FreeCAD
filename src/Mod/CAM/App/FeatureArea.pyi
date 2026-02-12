@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Zheng Lei <realthunder.dev@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from typing import Any
@@ -15,7 +16,6 @@ class FeatureArea(DocumentObject):
     """
     This class handles Path Area features
 
-    Author: Zheng, Lei (realthunder.dev@gmail.com)
     License: LGPL-2.1-or-later
     """
 

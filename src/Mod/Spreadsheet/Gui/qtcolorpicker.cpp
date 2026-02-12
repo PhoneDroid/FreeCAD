@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: LGPL-2.1-only OR GPL-3.0-only
+// SPDX-FileCopyrightText: 2009 Nokia Corporation and/or its subsidiary(-ies)
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /****************************************************************************
 **
 ** This file is part of a Qt Solutions component.
 **
-** Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
 ** Modified 2022 by 0penBrain under LGPL : fix issues about popup positioning
 **
 ** Contact:  Qt Software Information (qt-info@nokia.com)

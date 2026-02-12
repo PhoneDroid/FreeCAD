@@ -1,9 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: Jürgen Riegel 2007    <juergen.riegel@web.de>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) Juergen Riegel 2007    <juergen.riegel@web.de>          *
- *   LGPL                                                                  *
+/*************************************************************************** *   LGPL                                                                  *
  ***************************************************************************/
 
 #include "JrJt/JtReader.h"

@@ -1,7 +1,7 @@
+// SPDX-FileCopyrightText: 2021 Chris Hennes <chennes@pioneerlibrarysystem.org>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2021 Chris Hennes <chennes@pioneerlibrarysystem.org>    *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

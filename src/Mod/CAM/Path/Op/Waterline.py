@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2019 Russell Johnson <russ4262@gmail.com>
+# SPDX-FileCopyrightText: 2019 sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2019 Russell Johnson (russ4262) <russ4262@gmail.com>    *
-# *   Copyright (c) 2019 sliptonic <shopinthewoods@gmail.com>               *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -26,7 +26,7 @@
 import FreeCAD
 
 __title__ = "CAM Waterline Operation"
-__author__ = "russ4262 (Russell Johnson), sliptonic (Brad Collette)"
+__author__ = "russ4262 <Russell Johnson>, sliptonic (Brad Collette)"
 __url__ = "https://www.freecad.org"
 __doc__ = "Class and implementation of Waterline operation."
 __contributors__ = ""

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel <juergen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -21,7 +22,6 @@ class TopoShapeEdge(TopoShape):
     """
     TopoShapeEdge is the OpenCasCade topological edge wrapper
 
-    Author: Juergen Riegel (Juergen.Riegel@web.de)
     Licence: LGPL
     """
 

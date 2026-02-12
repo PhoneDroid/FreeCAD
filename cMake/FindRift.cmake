@@ -1,3 +1,4 @@
+# SPDX-FileCopyrightText: 2012 I-maginer
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # Find OCULUS
@@ -6,8 +7,6 @@
 #  OCULUS_FOUND
 #  OCULUS_INCLUDE_DIRS
 #  OCULUS_LIBRARIES
-#
-# Copyright (c) 2012 I-maginer
 #
 # This program is free software; you can redistribute it and/or modify it under
 # the terms of the GNU Lesser General Public License as published by the Free Software

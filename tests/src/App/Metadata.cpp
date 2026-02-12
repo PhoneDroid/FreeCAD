@@ -1,9 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-FileCopyrightText: 2021-2023 FreeCAD Project Association
 
 /**************************************************************************
- *                                                                         *
- *   Copyright (c) 2021-2023 FreeCAD Project Association                   *
  *                                                                         *
  *   FreeCAD is free software: you can redistribute it and/or modify it    *
  *   under the terms of the GNU Lesser General Public License as           *

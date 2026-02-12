@@ -1,10 +1,10 @@
+// SPDX-FileCopyrightText: 2015 FreeCAD Developers
+// SPDX-FileCopyrightText: Michael Hindley <hindlemp@eskom.co.za>
+// SPDX-FileCopyrightText: Ruan Olwagen <olwager@eskom.co.za>
+// SPDX-FileCopyrightText: Oswald van Ginkel <vginkeo@eskom.co.za>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2015 FreeCAD Developers                                 *
- *   Authors: Michael Hindley <hindlemp@eskom.co.za>                       *
- *            Ruan Olwagen <olwager@eskom.co.za>                           *
- *            Oswald van Ginkel <vginkeo@eskom.co.za>                      *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

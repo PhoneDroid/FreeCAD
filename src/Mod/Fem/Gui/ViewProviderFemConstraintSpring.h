@@ -1,9 +1,10 @@
+// SPDX-FileCopyrightText: 2021 FreeCAD Developers
+// SPDX-FileCopyrightText: Preslav Aleksandrov <preslav.aleksandrov@protonmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// *   Based on Force constraint by Jan Rheinländer                          *
+
 /***************************************************************************
- *   Copyright (c) 2021 FreeCAD Developers                                 *
- *   Author: Preslav Aleksandrov <preslav.aleksandrov@protonmail.com>      *
- *   Based on Force constraint by Jan Rheinländer                          *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

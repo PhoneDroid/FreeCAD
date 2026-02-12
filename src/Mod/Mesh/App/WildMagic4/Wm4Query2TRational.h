@@ -4,7 +4,7 @@
 // Wild Magic Source Code
 // David Eberly
 // http://www.geometrictools.com
-// Copyright (c) 1998-2007
+// SPDX-FileCopyrightText: 1998-2007
 //
 // This library is free software; you can redistribute it and/or modify it
 // under the terms of the GNU Lesser General Public License as published by

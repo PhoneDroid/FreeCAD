@@ -1,7 +1,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2022 FreeCAD Project Association                        *
+# SPDX-FileCopyrightText: 2022 FreeCAD Project Association
 # *                                                                         *
 # *   This library is free software; you can redistribute it and/or         *
 # *   modify it under the terms of the GNU Lesser General Public            *

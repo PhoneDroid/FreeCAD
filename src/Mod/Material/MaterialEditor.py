@@ -2,8 +2,8 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2013 Yorik van Havre <yorik@uncreated.net>              *
-# *   Copyright (c) 2019 Bernd Hahnebach <bernd@bimstatik.org>              *
+# SPDX-FileCopyrightText: 2013 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2019 Bernd Hahnebach <bernd@bimstatik.org>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

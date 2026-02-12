@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -20,7 +21,6 @@ from typing import Final, overload, List
 class Curve2d(Geometry2d):
     """
     The abstract class Geom2dCurve is the root class of all curve objects.
-    Author: Werner Mayer (wmayer@users.sourceforge.net)
     Licence: LGPL
     """
 

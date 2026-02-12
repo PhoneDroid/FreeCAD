@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
 //
-// Copyright (c) 1998 - 2007, The Regents of the University of California
+// SPDX-FileCopyrightText: 1998 - 2007, The Regents of the University of California
 // Produced at the Lawrence Livermore National Laboratory
 // All rights reserved.
 //

@@ -1,8 +1,8 @@
+# SPDX-FileCopyrightText: 2016 Frantisek Loeffelmann <LoffF@email.cz>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2016 Frantisek Loeffelmann <LoffF@email.cz>             *
-# *   Copyright (c) 2016 Bernd Hahnebach <bernd@bimstatik.org>              *
+# SPDX-FileCopyrightText: 2016 Bernd Hahnebach <bernd@bimstatik.org>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

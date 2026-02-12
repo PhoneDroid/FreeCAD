@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Abdullah Tahiri <abdullah.tahiri.yo@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -18,7 +19,6 @@ class TrimmedCurve(BoundedCurve):
     """
     The abstract class TrimmedCurve is the root class of all trimmed curve objects.
 
-    Author: Abdullah Tahiri (abdullah.tahiri.yo@gmail.com)
     Licence: LGPL
     """
 

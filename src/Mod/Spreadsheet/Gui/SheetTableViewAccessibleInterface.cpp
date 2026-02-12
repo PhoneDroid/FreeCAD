@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2023 Adrian Popescu
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2023 Adrian Popescu                                     *
  *   <adrian-constantin.popescu@outlook.com>                               *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *

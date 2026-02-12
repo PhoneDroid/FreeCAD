@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jose Luis Cercos Pita <jlcercos@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -19,7 +20,6 @@ class ViewProviderSpreadsheet(ViewProviderDocumentObject):
     """
     ViewProviderSheet class
 
-    Author: Jose Luis Cercos Pita (jlcercos@gmail.com)
     License: LGPL-2.1-or-later
     """
 

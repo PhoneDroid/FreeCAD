@@ -1,7 +1,6 @@
 //  SMESH  SMESH_MeshVSLink : Connection of SMESH with MeshVS from OCC 
 //
-//  Copyright (C) 2003  OPEN CASCADE, EADS/CCR, LIP6, CEA/DEN,
-//  CEDRAT, EDF R&D, LEG, PRINCIPIA R&D, BUREAU VERITAS
+// SPDX-FileCopyrightText: 2003  OPEN CASCADE , EADS/CCR , LIP6 , CEA/DEN , CEDRAT , EDF R&D , LEG , PRINCIPIA R&D , BUREAU VERITAS
 //
 //  This library is free software; you can redistribute it and/or
 //  modify it under the terms of the GNU Lesser General Public

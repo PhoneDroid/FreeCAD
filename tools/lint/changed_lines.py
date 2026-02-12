@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2023 Heston Hoffman
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # Modified to generate output compatible with `clang-tidy`'s `--line-filter` option
@@ -8,8 +9,6 @@
 # Original License
 #
 # The MIT License (MIT)
-#
-# Copyright (c) 2023 Heston Hoffman
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal

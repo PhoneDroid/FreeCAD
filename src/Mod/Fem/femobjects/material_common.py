@@ -1,9 +1,9 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2013 Juergen Riegel <FreeCAD@juergen-riegel.net>        *
-# *   Copyright (c) 2016 Bernd Hahnebach <bernd@bimstatik.org>              *
-# *   Copyright (c) 2024 Mario Passaglia <mpassaglia[at]cbc.uba.ar>         *
+# SPDX-FileCopyrightText: 2013 Jürgen Riegel <FreeCAD@juergen-riegel.net>
+# SPDX-FileCopyrightText: 2016 Bernd Hahnebach <bernd@bimstatik.org>
+# SPDX-FileCopyrightText: 2024 Mario Passaglia <mpassaglia@cbc.uba.ar>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

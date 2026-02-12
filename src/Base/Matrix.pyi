@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel <FreeCAD@juergen-riegel.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -67,7 +68,6 @@ class Matrix(PyObjectBase):
     vector4 : Base.Vector
         Default to (0,0,0). Optional.
 
-    Author: Juergen Riegel (FreeCAD@juergen-riegel.net)
     Licence: LGPL
     """
 

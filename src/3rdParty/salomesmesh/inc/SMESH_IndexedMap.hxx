@@ -1,7 +1,4 @@
-// File:        NCollection_IndexedMap.hxx
-// Created:     Thu Apr 24 15:02:53 2002
-// Author:      Alexander KARTOMIN (akm)
-//              <akm@opencascade.com>
+// SPDX-FileCopyrightText: 2024 Alexander KARTOMIN <akm@opencascade.com>
 
 #ifndef SMESH_IndexedMap_HeaderFile
 #define SMESH_IndexedMap_HeaderFile

@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2020 Russell Johnson <russ4262@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2020 Russell Johnson (russ4262) <russ4262@gmail.com>    *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -24,7 +24,7 @@
 
 
 __title__ = "CAM Slot Operation"
-__author__ = "russ4262 (Russell Johnson)"
+__author__ = "russ4262 <Russell Johnson>"
 __url__ = "https://www.freecad.org"
 __doc__ = "Class and implementation of Slot operation."
 __contributors__ = ""

@@ -1,12 +1,6 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2008 rubensmits
 // SPDX-FileNotice: Part of the FreeCAD project.
-
-/*
- * TreeJntToJacSolver.hpp
- *
- *  Created on: Nov 27, 2008
- *      Author: rubensmits
- */
 
 #pragma once
 

@@ -1,7 +1,6 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2025 The FreeCAD Project
 # SPDX-FileNotice: Part of the FreeCAD project.
-#
-# Copyright (c) 2025 The FreeCAD Project
 
 import FreeCAD
 import os

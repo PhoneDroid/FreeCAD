@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Yorik van Havre <yorik@uncreated.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from typing import Any
@@ -16,7 +17,6 @@ class FeaturePathCompound(DocumentObject):
     """
     This class handles Path Compound features
 
-    Author: Yorik van Havre (yorik@uncreated.net)
     License: LGPL-2.1-or-later
     """
 

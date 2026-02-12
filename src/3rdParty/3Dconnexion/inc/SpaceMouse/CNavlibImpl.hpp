@@ -1,10 +1,10 @@
+// SPDX-FileCopyrightText: 2014-2023 3Dconnexion
+
 #ifndef CNavlibImpl_HPP_INCLUDED
 #define CNavlibImpl_HPP_INCLUDED
 // <copyright file="CNavlibImpl.hpp" company="3Dconnexion">
 // ------------------------------------------------------------------------------------------------
 // This file is part of the FreeCAD CAx development system.
-//
-// Copyright (c) 2014-2023 3Dconnexion.
 //
 // This source code is released under the GNU Library General Public License, (see "LICENSE").
 // ------------------------------------------------------------------------------------------------

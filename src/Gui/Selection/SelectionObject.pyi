@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel <FreeCAD@juergen-riegel.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from Base.Metadata import export
@@ -13,7 +14,6 @@ class SelectionObject(BaseClass):
     """
     This class represents selections made by the user. It holds information about the object, document and sub-element of the selection.
 
-    Author: Juergen Riegel (FreeCAD@juergen-riegel.net)
     Licence: LGPL
     """
 

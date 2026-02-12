@@ -1,7 +1,7 @@
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2018 Torsten Sadowski <tsadowski[at]gmx.net>            *
+// SPDX-FileCopyrightText: 2018 Torsten Sadowski <tsadowski@gmx.net>
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

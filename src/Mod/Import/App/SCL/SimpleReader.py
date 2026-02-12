@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: BSD-3-Clause
+# SPDX-FileCopyrightText: 2014, Jürgen Riegel <FreeCAD@juergen-riegel.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# Copyright (c) 2014, Juergen Riegel (FreeCAD@juergen-riegel.net)
 # All rights reserved.
 
 # This file is part of the StepClassLibrary (SCL).

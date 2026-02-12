@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: 2011 Dan Heeks
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 // Area.cpp
 
-// Copyright 2011, Dan Heeks
 // This program is released under the BSD license. See the file COPYING for details.
 
 #include "Area.h"

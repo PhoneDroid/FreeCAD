@@ -1,7 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Chris Jones <chris.r.jones.1983@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2026 Chris Jones github.com/ipatch                      *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

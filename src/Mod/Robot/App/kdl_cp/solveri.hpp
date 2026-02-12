@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-// Copyright (C) 2013 Stephen Roderick <kiwi dot net at mac dot com>
+// SPDX-FileCopyrightText: 2013 Stephen Roderick <kiwi dot net at mac dot com>
 
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public

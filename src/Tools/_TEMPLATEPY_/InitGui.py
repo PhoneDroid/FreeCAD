@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # _TEMPLATEPY_ gui init module
-# (c) 2001 Juergen Riegel
+# (c) 2001 Jürgen Riegel
 # License LGPL
 
 

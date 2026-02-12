@@ -1,7 +1,7 @@
+// SPDX-FileCopyrightText: 2014-2023 3Dconnexion
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2014-2023 3Dconnexion.                                  *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

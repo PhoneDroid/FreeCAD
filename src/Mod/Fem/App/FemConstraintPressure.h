@@ -1,9 +1,10 @@
+// SPDX-FileCopyrightText: 2015 FreeCAD Developers
+// SPDX-FileCopyrightText: Przemo Firszt <przemo@firszt.eu>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// Based on Force constraint by Jan Rheinländer
+
 /***************************************************************************
- *   Copyright (c) 2015 FreeCAD Developers                                 *
- *   Author: Przemo Firszt <przemo@firszt.eu>                              *
- *   Based on Force constraint by Jan Rheinländer                          *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

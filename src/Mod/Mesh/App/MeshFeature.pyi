@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -23,7 +24,6 @@ class MeshFeature(GeoFeature):
     Therefore you must have a reference to a document, e.g. 'd' then you can create an instance with
     d.addObject("Mesh::Feature").
 
-    Author: Werner Mayer (wmayer@users.sourceforge.net)
     License: LGPL-2.1-or-later
     """
 

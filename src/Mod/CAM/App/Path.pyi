@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Yorik van Havre <yorik@uncreated.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -22,7 +23,6 @@ class Path(Persistence):
     Path([commands]): Represents a basic Gcode path
     commands (optional) is a list of Path commands
 
-    Author: Yorik van Havre (yorik@uncreated.net)
     License: LGPL-2.1-or-later
     """
 

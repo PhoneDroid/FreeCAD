@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Uwe Stöhr <uwestoehr@lyx.org>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -17,7 +18,6 @@ class ViewProviderFemPostPipeline(ViewProviderDocumentObject):
     """
     ViewProviderFemPostPipeline class
 
-    Author: Uwe Stöhr (uwestoehr@lyx.org)
     License: LGPL-2.1-or-later
     """
 

@@ -1,7 +1,7 @@
+// SPDX-FileCopyrightText: 2004 Jürgen Riegel <juergen.riegel@web.de>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2004 Jürgen Riegel <juergen.riegel@web.de>              *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
@@ -76,7 +76,7 @@ protected:
 
 /** The 3D view window
  *  It consists out of the 3D view
- *  \author Juergen Riegel
+ *  \author Jürgen Riegel
  */
 class GuiExport View3DInventor: public MDIView
 {

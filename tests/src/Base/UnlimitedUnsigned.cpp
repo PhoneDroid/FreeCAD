@@ -1,7 +1,7 @@
 // SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-FileCopyrightText: 2025 Kevin Martin <kpmartin@papertrail.ca>
 
 /***************************************************************************
- *   Copyright (c) 2025 Kevin Martin <kpmartin@papertrail.ca>              *
  *                                                                         *
  *   FreeCAD is free software: you can redistribute it and/or modify it    *
  *   under the terms of the GNU Lesser General Public License as           *

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: WandererFan <wandererfan@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -19,7 +20,6 @@ class CosmeticVertex(PyObjectBase):
     """
     CosmeticVertex specifies an extra (cosmetic) vertex in Views
 
-    Author: WandererFan (wandererfan@gmail.com)
     License: LGPL-2.1-or-later
     """
 

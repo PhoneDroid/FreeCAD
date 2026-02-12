@@ -1,9 +1,8 @@
+// SPDX-FileCopyrightText: 2017 Qingfeng Xia <qingfeng.xia@oxford.uni>
+// SPDX-FileCopyrightText: 2009 Jürgen Riegel <juergen.riegel@web.de>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2009 Jürgen Riegel <juergen.riegel@web.de>              *
- *   Copyright (c) 2017 Qingfeng Xia  <qingfeng.xia at oxford uni>         *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
  *   License as published by the Free Software Foundation; either          *

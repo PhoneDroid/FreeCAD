@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Ondsel <development@ondsel.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -15,6 +16,5 @@ class BomObject(Sheet):
     """
     This class is the BOM object of assemblies, it derives from Spreadsheet::Sheet.
 
-    Author: Ondsel (development@ondsel.com)
     License: LGPL-2.1-or-later
     """

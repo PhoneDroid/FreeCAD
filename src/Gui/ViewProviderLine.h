@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 2012 Jürgen Riegel <juergen.riegel@web.de>
+// SPDX-FileCopyrightText: 2015 Alexander Golubev <fatzer2@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2012 Jürgen Riegel <juergen.riegel@web.de>              *
- *   Copyright (c) 2015 Alexander Golubev (Fat-Zer) <fatzer2@gmail.com>    *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# (c) 2006 Juergen Riegel
+# (c) 2006 Jürgen Riegel
 
 import template
 import model.generateModel_Module
@@ -17,7 +17,6 @@ class TemplateCPPFile(template.ModelTemplate):
 
 Template = """
 /***************************************************************************
- *   Copyright (c) YEAR YOUR NAME <Your e-mail address>                    *
  *                                                                         *
  *   This file is part of the FreeCAD CAx development system.              *
  *                                                                         *

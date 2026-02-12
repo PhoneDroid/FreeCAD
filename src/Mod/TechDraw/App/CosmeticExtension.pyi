@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: WandererFan <wandererfan@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -16,6 +17,5 @@ class CosmeticExtension(DocumentObjectExtension):
     """
     This object represents cosmetic features for a DrawViewPart.
 
-    Author: WandererFan (wandererfan@gmail.com)
     License: LGPL-2.1-or-later
     """

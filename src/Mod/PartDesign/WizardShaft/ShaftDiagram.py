@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # /******************************************************************************
-# *   Copyright (c) 2012 Jan Rheinländer <jrheinlaender@users.sourceforge.net> *
+# SPDX-FileCopyrightText: 2012 Jan Rheinländer <jrheinlaender@users.sourceforge.net>
 # *                                                                            *
 # *   This library is free software; you can redistribute it and/or            *
 # *   modify it under the terms of the GNU Library General Public              *

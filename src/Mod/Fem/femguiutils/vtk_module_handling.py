@@ -1,7 +1,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2025 Stefan Tröger <stefantroeger@gmx.net>              *
+# SPDX-FileCopyrightText: 2025 Stefan Tröger <stefantroeger@gmx.net>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

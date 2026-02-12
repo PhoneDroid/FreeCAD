@@ -1,9 +1,10 @@
+// SPDX-FileCopyrightText: 2020 FreeCAD Developers
+// SPDX-FileCopyrightText: Uwe Stöhr <uwestoehr@lyx.org>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// *   Based on src/Mod/FEM/Gui/DlgSettingsFEMImp.cpp                        *
+
 /***************************************************************************
- *   Copyright (c) 2020 FreeCAD Developers                                 *
- *   Author: Uwe Stöhr <uwestoehr@lyx.org>                                 *
- *   Based on src/Mod/FEM/Gui/DlgSettingsFEMImp.cpp                        *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

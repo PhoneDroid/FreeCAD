@@ -1,7 +1,6 @@
-//  Copyright (C) 2007-2008  CEA/DEN, EDF R&D, OPEN CASCADE
-//
-//  Copyright (C) 2003-2007  OPEN CASCADE, EADS/CCR, LIP6, CEA/DEN,
-//  CEDRAT, EDF R&D, LEG, PRINCIPIA R&D, BUREAU VERITAS
+// SPDX-FileCopyrightText: 2005 Sergey KUUL
+// SPDX-FileCopyrightText: 2007-2008  CEA/DEN , EDF R&D , OPEN CASCADE
+// SPDX-FileCopyrightText: 2003-2007  OPEN CASCADE , EADS/CCR , LIP6 , CEA/DEN , CEDRAT , EDF R&D , LEG , PRINCIPIA R&D , BUREAU VERITAS
 //
 //  This library is free software; you can redistribute it and/or
 //  modify it under the terms of the GNU Lesser General Public
@@ -18,11 +17,7 @@
 //  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA
 //
 //  See http://www.salome-platform.org/ or email : webmaster.salome@opencascade.com
-//
-// File:      SMESH_IndexedDataMapOfShapeIndexedMapOfShape.hxx
-// Created:   20.09.05 09:51:12
-// Author:    Sergey KUUL
-//
+
 #ifndef SMESH_IndexedMapOfShape_HeaderFile
 #define SMESH_IndexedMapOfShape_HeaderFile
 

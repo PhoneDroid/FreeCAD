@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Mario Passaglia <mpassaglia@cbc.uba.ar>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -20,7 +21,6 @@ class FemPostObject(GeoFeature):
     """
     The FemPostObject class.
 
-    Author: Mario Passaglia (mpassaglia@cbc.uba.ar)
     License: LGPL-2.1-or-later
     """
 

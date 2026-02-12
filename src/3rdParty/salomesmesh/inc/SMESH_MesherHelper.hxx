@@ -1,7 +1,7 @@
-// Copyright (C) 2007-2015  CEA/DEN, EDF R&D, OPEN CASCADE
-//
-// Copyright (C) 2003-2007  OPEN CASCADE, EADS/CCR, LIP6, CEA/DEN,
-// CEDRAT, EDF R&D, LEG, PRINCIPIA R&D, BUREAU VERITAS
+// SPDX-FileCopyrightText: 2006 Sergey KUUL
+// SPDX-FileCopyrightText: 2007-2015 CEA/DEN , EDF R&D , OPEN CASCADE
+// SPDX-FileCopyrightText: 2003-2007 CEA/DEN , EDF R&D , OPEN CASCADE , EADS/CCR , LEG
+// SPDX-FileCopyrightText: 2003-2007 LIP6 , CEDRAT , PRINCIPIA R&D , BUREAU VERITAS
 //
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public
@@ -20,10 +20,6 @@
 // See http://www.salome-platform.org/ or email : webmaster.salome@opencascade.com
 //
 
-// File:      SMESH_MesherHelper.hxx
-// Created:   15.02.06 14:48:09
-// Author:    Sergey KUUL
-//
 #ifndef SMESH_MesherHelper_HeaderFile
 #define SMESH_MesherHelper_HeaderFile
 

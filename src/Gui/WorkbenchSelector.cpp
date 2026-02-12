@@ -1,7 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Pierre-Louis Boyer <development@Ondsel.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2024 Pierre-Louis Boyer <development[at]Ondsel.com>     *
  *                                                                         *
  *   FreeCAD is free software: you can redistribute it and/or modify it    *
  *   under the terms of the GNU Lesser General Public License as           *

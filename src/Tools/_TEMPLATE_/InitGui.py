@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # _TEMPLATE_ gui init module
-# (c) 2001 Juergen Riegel LGPL
+# (c) 2001 Jürgen Riegel LGPL
 
 
 class _TEMPLATE_Workbench(Workbench):

@@ -1,9 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2019 Abdullah Tahiri <abdullah.tahiri.yo@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2019 Abdullah Tahiri <abdullah.tahiri.yo@gmail.com>     *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
  *   License as published by the Free Software Foundation; either          *
@@ -38,7 +37,7 @@ class ISketchExternalGeometryExtension
 {
 public:
     // Identification information
-    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
     virtual bool testFlag(int flag) const = 0;
 
@@ -47,7 +46,7 @@ public:
     virtual unsigned long getFlags() const = 0;
 
     virtual void setFlags(unsigned long flags) = 0;
-    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
 
     virtual bool isClear() const = 0;
@@ -69,7 +68,7 @@ class SketcherExport ExternalGeometryExtension: public Part::GeometryMigrationPe
     TYPESYSTEM_HEADER_WITH_OVERRIDE();
 
 public:
-    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
     enum Flag
     {
@@ -80,7 +79,7 @@ public:
         Sync = 4,      // signal the intention to synchronize a frozen geometry
         NumFlags       // Must be the last type
     };
-    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
 
     constexpr static std::array<const char*, NumFlags> flag2str {
@@ -96,7 +95,7 @@ public:
 
     PyObject* getPyObject() override;
 
-    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
     bool testFlag(int flag) const override
     {
@@ -117,7 +116,7 @@ public:
     {
         Flags = flags;
     }
-    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
 
     bool isClear() const override
@@ -166,12 +165,12 @@ private:
 
 private:
     using FlagType = std::bitset<32>;
-    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // START_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
     std::string Ref;
     int RefIndex = -1;
     FlagType Flags;
-    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng, Lei (realthunder)
+    // END_CREDIT_BLOCK: Credit under LGPL for this block to Zheng Lei
     // <realthunder.dev@gmail.com>
 };
 

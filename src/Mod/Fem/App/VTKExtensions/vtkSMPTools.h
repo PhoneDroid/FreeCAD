@@ -1,3 +1,4 @@
+// SPDX-FileCopyrightText: 
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*=========================================================================
@@ -5,7 +6,6 @@
   Program:   Visualization Toolkit
   Module:    vtkSMPTools.h
 
-  Copyright (c) Ken Martin, Will Schroeder, Bill Lorensen
   All rights reserved.
   See Copyright.txt or http://www.kitware.com/Copyright.htm for details.
 

@@ -1,9 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2009 Werner Mayer <wmayer@users.sourceforge.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2009 Werner Mayer <wmayer[at]users.sourceforge.net>     *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
  *   License as published by the Free Software Foundation; either          *
@@ -340,7 +339,7 @@ PyMOD_INIT_FUNC(FreeCADGui)
         Base::Interpreter().loadModule("FreeCAD");
         App::Application::Config()["AppIcon"] = "freecad";
         App::Application::Config()["SplashScreen"] = "freecadsplash";
-        App::Application::Config()["CopyrightInfo"] = fmt::format("\xc2\xa9 Juergen Riegel, Werner Mayer, Yorik van Havre and others 2001-{}\n", FCCopyrightYear);
+        App::Application::Config()["CopyrightInfo"] = fmt::format("\xc2\xa9 Jürgen Riegel, Werner Mayer, Yorik van Havre and others 2001-{}\n", FCCopyrightYear);
         App::Application::Config()["LicenseInfo"] = "FreeCAD is free and open-source software licensed under the terms of LGPL2+ license.\n";
         App::Application::Config()["CreditsInfo"] = "FreeCAD would not be possible without the FreeCAD community.\n";
         // clang-format on

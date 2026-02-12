@@ -1,7 +1,7 @@
+// SPDX-FileCopyrightText: 2017 Markus Hovorka <m.hovorka@live.de>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2017 Markus Hovorka <m.hovorka@live.de>                 *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

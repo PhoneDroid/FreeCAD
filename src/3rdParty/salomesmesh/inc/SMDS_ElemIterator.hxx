@@ -1,7 +1,7 @@
-// Copyright (C) 2007-2015  CEA/DEN, EDF R&D, OPEN CASCADE
-//
-// Copyright (C) 2003-2007  OPEN CASCADE, EADS/CCR, LIP6, CEA/DEN,
-// CEDRAT, EDF R&D, LEG, PRINCIPIA R&D, BUREAU VERITAS
+// SPDX-FileCopyrightText: 2005 Michael Sazonov
+// SPDX-FileCopyrightText: 2007-2015 CEA/DEN , EDF R&D , OPEN CASCADE
+// SPDX-FileCopyrightText: 2003-2007 CEA/DEN , EDF R&D , OPEN CASCADE , EADS/CCR , LEG
+// SPDX-FileCopyrightText: 2003-2007 LIP6 , CEDRAT , PRINCIPIA R&D , BUREAU VERITAS
 //
 // This library is free software; you can redistribute it and/or
 // modify it under the terms of the GNU Lesser General Public
@@ -23,9 +23,7 @@
 //  SMESH SMDS : implementation of Salome mesh data structure
 //  File   : SMDS_MeshElement.hxx
 //  Module : SMESH
-//  Created:   12.01.05 18:02:52
-//  Author:    Michael Sazonov
-//
+
 #ifndef SMDS_ElemIterator_HeaderFile
 #define SMDS_ElemIterator_HeaderFile
 

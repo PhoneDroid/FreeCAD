@@ -1,8 +1,8 @@
+# SPDX-FileCopyrightText: 2025 Brad Collette
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # -*- coding: utf-8 -*-
 # ***************************************************************************
-# *   Copyright (c) 2025 Brad Collette                                      *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)   *

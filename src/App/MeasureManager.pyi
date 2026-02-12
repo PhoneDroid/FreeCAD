@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: David Friedli <david@friedli-be.ch>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -20,7 +21,6 @@ class MeasureManager(PyObjectBase):
 
     The MeasureManager handles measure types and geometry handler across FreeCAD.
 
-    Author: David Friedli (david@friedli-be.ch)
     Licence: LGPL
     DeveloperDocu: MeasureManager
     """

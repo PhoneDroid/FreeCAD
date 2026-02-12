@@ -1,10 +1,9 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2017 Christophe Grellier <cg@grellier.fr>
+// SPDX-FileCopyrightText: 2017 Werner Mayer <wmayer@users.sourceforge.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2017 Werner Mayer <wmayer[at]users.sourceforge.net>     *
- *   Copyright (c) 2017 Christophe Grellier <cg[at]grellier.fr>            *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
  *   License as published by the Free Software Foundation; either          *

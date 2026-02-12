@@ -1,10 +1,9 @@
 // SPDX-License-Identifier: Zlib
+// SPDX-FileCopyrightText: 2004-2008 René Nyffenegger
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
 base64.cpp and base64.h
-
-Copyright (C) 2004-2008 René Nyffenegger
 
 This source code is provided 'as-is', without any express or implied
 warranty. In no event will the author be held liable for any damages
@@ -28,7 +27,7 @@ René Nyffenegger rene.nyffenegger@adp-gmbh.ch
 
 NOTICE: The source code here has been altered from the original to use a provided character buffer
 rather than returning a new string for each call.
-These modifications are Copyright (c) 2019 Zheng Lei (realthunder.dev@gmail.com)
+These modifications are Copyright (c) 2019 Zheng Lei <realthunder.dev@gmail.com>
 
 */
 

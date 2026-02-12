@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Abdullah Tahiri <abdullah.tahiri.yo@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -22,7 +23,6 @@ class GeometryIntExtension(GeometryExtension):
     """
     A GeometryExtension extending geometry objects with an int.
 
-    Author: Abdullah Tahiri (abdullah.tahiri.yo@gmail.com)
     Licence: LGPL
     """
 

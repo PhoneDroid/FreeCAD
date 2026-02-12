@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: BSD-3-Clause
+# SPDX-FileCopyrightText: 2011-2012 Thomas Paviot <tpaviot@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# Copyright (c) 2011-2012, Thomas Paviot (tpaviot@gmail.com)
 # All rights reserved.
 
 # This file is part of the StepClassLibrary (SCL).

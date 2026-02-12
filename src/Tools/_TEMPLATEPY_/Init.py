@@ -2,5 +2,5 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # FreeCAD init script of the _TEMPLATEPY_ module
-# (c) 2001 Juergen Riegel
+# (c) 2001 Jürgen Riegel
 # License LGPL

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 1993-2015 Ken Martin
+# SPDX-FileCopyrightText: 1993-2015 Will Schroeder
+# SPDX-FileCopyrightText: 1993-2015 Bill Lorensen
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ADAPTED FOR FREECAD FROM VTK'S vtkQt.cmake
@@ -8,7 +11,6 @@
 #   Program:   Visualization Toolkit
 #   Module:    Copyright.txt
 #
-# Copyright (c) 1993-2015 Ken Martin, Will Schroeder, Bill Lorensen
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

@@ -1,9 +1,9 @@
+// SPDX-FileCopyrightText: 2002 Jürgen Riegel <juergen.riegel@web.de>
+// SPDX-FileCopyrightText: 2013 Luke Parry <l.parry@warwick.ac.uk>
+// SPDX-FileCopyrightText: 2016 WandererFan <wandererfan@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2002 Jürgen Riegel <juergen.riegel@web.de>              *
- *   Copyright (c) 2013 Luke Parry <l.parry@warwick.ac.uk>                 *
- *   Copyright (c) 2016 WandererFan <wandererfan@gmail.com>                *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

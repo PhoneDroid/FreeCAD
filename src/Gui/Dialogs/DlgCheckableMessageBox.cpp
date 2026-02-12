@@ -1,13 +1,10 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2009 Nokia Corporation <qt-info@nokia.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /**************************************************************************
 **
 ** This file is part of Qt Creator
-**
-** Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
-**
-** Contact: Nokia Corporation (qt-info@nokia.com)
 **
 ** Commercial Usage
 **

@@ -2,10 +2,9 @@
     @file CRC.h
     @author Daniel Bahr
     @version 1.2.0.0
-    @copyright
+    @copyright 2022 Daniel Bahr
     @parblock
         CRC++
-        Copyright (c) 2022, Daniel Bahr
         All rights reserved.
 
         Redistribution and use in source and binary forms, with or without

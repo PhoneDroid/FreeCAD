@@ -1,5 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2010 Jürgen Riegel <FreeCAD@juergen-riegel.net>
+// SPDX-FileCopyrightText: 2015 Eivind Kvedalen <eivind@kvedalen.name>
 // SPDX-FileNotice: Part of the FreeCAD project.
+
 
 // clang-format off
 #line 1 "Expression.lex.c"
@@ -8567,8 +8570,6 @@ char *yytext;
 #line 1 "Expression.l"
 #line 2 "Expression.l"
 /***************************************************************************
- *   Copyright (c) 2010 Jürgen Riegel <FreeCAD@juergen-riegel.net>         *
- *   Copyright (c) 2015 Eivind Kvedalen <eivind@kvedalen.name>             *
  *                                                                         *
  *   This file is part of the FreeCAD CAx development system.              *
  *                                                                         *

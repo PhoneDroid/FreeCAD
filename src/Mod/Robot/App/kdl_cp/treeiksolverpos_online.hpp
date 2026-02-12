@@ -1,13 +1,12 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2007-2008 Ruben Smits <ruben.smits@mech.kuleuven.be>
+// SPDX-FileCopyrightText: 2008 Mikael Mayer
+// SPDX-FileCopyrightText: 2008 Julia Jesse
+// SPDX-FileCopyrightText: 2011 PAL Robotics S.L.
+// SPDX-FileCopyrightText: Marcus Liebhardt
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-// Copyright  (C)  2011  PAL Robotics S.L.  All rights reserved.
-// Copyright  (C)  2007-2008  Ruben Smits <ruben dot smits at mech dot kuleuven dot be>
-// Copyright  (C)  2008  Mikael Mayer
-// Copyright  (C)  2008  Julia Jesse
-
 // Version: 1.0
-// Author: Marcus Liebhardt
 // This class has been derived from the KDL::TreeIkSolverPos_NR_JL class
 // by Julia Jesse, Mikael Mayer and Ruben Smits
 

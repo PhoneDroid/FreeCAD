@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: EUPL-1.2
+# SPDX-FileCopyrightText: 2025 Clair-Loup Sergent <clsergent@free.fr>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # A FreeCAD postprocessor targeting Snapmaker machines with CNC capabilities
 # ***************************************************************************
-# *  Copyright (c) 2025 Clair-Loup Sergent <clsergent@free.fr>              *
 # *                                                                         *
 # *  Licensed under the EUPL-1.2 with the specific provision                *
 # *  (EUPL articles 14 & 15) that the applicable law is the French law.     *

@@ -1,9 +1,8 @@
+// SPDX-FileCopyrightText: 2024 William Lenthe
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*************************************************************************************/
 /*                                                                                   */
-/* Copyright (c) 2024, William Lenthe                                                */
-/* Author: William Lenthe                                                            */
 /* All rights reserved.                                                              */
 /*                                                                                   */
 /* Redistribution and use in source and binary forms, with or without                */

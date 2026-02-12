@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2011 Jürgen Riegel <juergen.riegel@web.de>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2011 Jürgen Riegel <juergen.riegel@web.de>              *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
@@ -47,7 +47,7 @@ class Persistence;
  * This is an important helper class for the store and retrieval system
  * of persistent objects in FreeCAD.
  * \see Base::Persistence
- * \author Juergen Riegel
+ * \author Jürgen Riegel
  */
 class BaseExport Writer
 {
@@ -212,7 +212,7 @@ private:
  * This is an important helper class implementation for the store and retrieval system
  * of persistent objects in FreeCAD.
  * \see Base::Persistence
- * \author Juergen Riegel
+ * \author Jürgen Riegel
  */
 class BaseExport ZipWriter: public Writer
 {
@@ -256,7 +256,7 @@ private:
  * This is an important helper class implementation for the store and retrieval system
  * of objects in FreeCAD.
  * \see Base::Persistence
- * \author Juergen Riegel
+ * \author Jürgen Riegel
  */
 class BaseExport StringWriter: public Writer
 {

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from typing import Any, Final
@@ -18,7 +19,6 @@ class Voronoi(BaseClass):
     """
     Voronoi([segments]): Create voronoi for given collection of line segments
 
-    Author: sliptonic (shopinthewoods@gmail.com)
     License: LGPL-2.1-or-later
     """
 

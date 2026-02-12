@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel <FreeCAD@juergen-riegel.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -23,7 +24,6 @@ class MeshPoint(PyObjectBase):
     a mesh. In this case the topological operations will fail. The same is
     when you cut the bound to the mesh by calling unbound().
 
-    Author: Juergen Riegel (FreeCAD@juergen-riegel.net)
     License: LGPL-2.1-or-later
     """
 

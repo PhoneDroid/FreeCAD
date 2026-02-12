@@ -1,10 +1,8 @@
+// SPDX-FileCopyrightText: 2016 Qingfeng Xia <qingfeng.xia@iesensor.com>
+// SPDX-FileCopyrightText: 2013 Jan Rheinländer <jrheinlaender@users.sourceforge.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-/***************************************************************************
- *   Copyright (c) 2013 Jan Rheinländer                                    *
- *                                   <jrheinlaender@users.sourceforge.net> *
- *   Copyright (c) 2016 Qingfeng Xia <qingfeng.xia[at]iesensor.com>        *
- *                                                                         *
+/*************************************************************************** *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *
  *   License as published by the Free Software Foundation; either          *

@@ -3,7 +3,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 #  FreeCAD Build Tool
-# (c) 2004 Juergen Riegel
+# (c) 2004 Jürgen Riegel
 
 
 import sys

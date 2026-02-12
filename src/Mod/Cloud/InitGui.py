@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # Cloud gui init module
-# (c) 2001 Juergen Riegel LGPL
+# (c) 2001 Jürgen Riegel LGPL
 # (c) 2019 Jean-Marie Verdun LGPL
 
 

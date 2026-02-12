@@ -1,8 +1,8 @@
 // SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-FileCopyrightText: 2011 Joe Dowsett <j-dowsett@users.sourceforge.net>
+// SPDX-FileCopyrightText: 2014 Luke Parry <l.parry@warwick.ac.uk>
 
 /***************************************************************************
- *   Copyright (c) 2011 Joe Dowsett <j-dowsett[at]users.sourceforge.net>   *
- *   Copyright (c) 2014 Luke Parry <l.parry@warwick.ac.uk>                 *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

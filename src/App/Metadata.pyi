@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Chris Hennes <chennes@pioneerlibrarysystem.org>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -48,7 +49,6 @@ class Metadata(PyObjectBase):
     bytes : bytes
         Python bytes-like object.
 
-    Author: Chris Hennes (chennes@pioneerlibrarysystem.org)
     Licence: LGPL
     DeveloperDocu: Metadata
     """

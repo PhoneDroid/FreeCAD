@@ -1,10 +1,10 @@
 ﻿// SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: 2009 Dan Heeks
+// SPDX-FileCopyrightText: 2018 wandererfan
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 // dxf.cpp
-// Copyright (c) 2009, Dan Heeks
 // This program is released under the BSD license. See the file COPYING for details.
-// modified 2018 wandererfan
 
 
 #include <cmath>
@@ -161,7 +161,7 @@ void CDxfWrite::endRun()
 
 //***************************
 // writeHeaderSection
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeHeaderSection()
 {
     std::stringstream ss;
@@ -183,7 +183,7 @@ void CDxfWrite::writeHeaderSection()
 
 //***************************
 // writeClassesSection
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeClassesSection()
 {
     if (m_version < 14) {
@@ -199,7 +199,7 @@ void CDxfWrite::writeClassesSection()
 
 //***************************
 // writeTablesSection
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeTablesSection()
 {
     // static tables section head end content
@@ -228,7 +228,7 @@ void CDxfWrite::writeTablesSection()
 
 //***************************
 // makeLayerTable
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::makeLayerTable()
 {
     std::string tablehash = getLayerHandle();
@@ -296,7 +296,7 @@ void CDxfWrite::makeLayerTable()
 
 //***************************
 // makeBlockRecordTableHead
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::makeBlockRecordTableHead()
 {
     if (m_version < 14) {
@@ -352,7 +352,7 @@ void CDxfWrite::makeBlockRecordTableHead()
 
 //***************************
 // makeBlockRecordTableBody
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::makeBlockRecordTableBody()
 {
     if (m_version < 14) {
@@ -381,7 +381,7 @@ void CDxfWrite::makeBlockRecordTableBody()
 
 //***************************
 // makeBlockSectionHead
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::makeBlockSectionHead()
 {
     (*m_ssBlock) << "  0" << endl;
@@ -617,7 +617,7 @@ void CDxfWrite::putLine(
 
 //***************************
 // writeLWPolyLine  (Note: LWPolyline might not be supported in R12
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeLWPolyLine(const LWPolyDataOut& pd)
 {
     (*m_ssEntity) << "  0" << endl;
@@ -675,7 +675,7 @@ void CDxfWrite::writeLWPolyLine(const LWPolyDataOut& pd)
 
 //***************************
 // writePolyline
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writePolyline(const LWPolyDataOut& pd)
 {
     (*m_ssEntity) << "  0" << endl;
@@ -897,7 +897,7 @@ void CDxfWrite::writeEllipse(
 
 //***************************
 // writeSpline
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeSpline(const SplineDataOut& sd)
 {
     (*m_ssEntity) << "  0" << endl;
@@ -977,7 +977,7 @@ void CDxfWrite::writeSpline(const SplineDataOut& sd)
 
 //***************************
 // writeVertex
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeVertex(double x, double y, double z)
 {
     (*m_ssEntity) << "  0" << endl;
@@ -1028,7 +1028,7 @@ void CDxfWrite::writeText(
 
 //***************************
 // putText
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::putText(
     const char* text,
     const Base::Vector3d& location1,
@@ -1158,7 +1158,7 @@ void CDxfWrite::putArrow(
 
 //***************************
 // writeLinearDim
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 #define ALIGNED 0
 #define HORIZONTAL 1
 #define VERTICAL 2
@@ -1250,7 +1250,7 @@ void CDxfWrite::writeLinearDim(
 
 //***************************
 // writeAngularDim
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeAngularDim(
     const double* textMidPoint,
     const double* lineDefPoint,
@@ -1342,7 +1342,7 @@ void CDxfWrite::writeAngularDim(
 
 //***************************
 // writeRadialDim
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeRadialDim(
     const double* centerPoint,
     const double* textMidPoint,
@@ -1409,7 +1409,7 @@ void CDxfWrite::writeRadialDim(
 
 //***************************
 // writeDiametricDim
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeDiametricDim(
     const double* textMidPoint,
     const double* arcPoint1,
@@ -1476,7 +1476,7 @@ void CDxfWrite::writeDiametricDim(
 
 //***************************
 // writeDimBlockPreamble
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeDimBlockPreamble()
 {
     if (m_version > 12) {
@@ -1521,7 +1521,7 @@ void CDxfWrite::writeDimBlockPreamble()
 
 //***************************
 // writeBlockTrailer
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeBlockTrailer()
 {
     (*m_ssBlock) << "  0" << endl;
@@ -1546,7 +1546,7 @@ void CDxfWrite::writeBlockTrailer()
 
 //***************************
 // writeLinearDimBlock
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeLinearDimBlock(
     const double* textMidPoint,
     const double* lineDefPoint,
@@ -1634,7 +1634,7 @@ void CDxfWrite::writeLinearDimBlock(
 
 //***************************
 // writeAngularDimBlock
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeAngularDimBlock(
     const double* textMidPoint,
     const double* lineDefPoint,
@@ -1744,7 +1744,7 @@ void CDxfWrite::writeAngularDimBlock(
 
 //***************************
 // writeRadialDimBlock
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeRadialDimBlock(
     const double* centerPoint,
     const double* textMidPoint,
@@ -1787,7 +1787,7 @@ void CDxfWrite::writeRadialDimBlock(
 
 //***************************
 // writeDiametricDimBlock
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeDiametricDimBlock(
     const double* textMidPoint,
     const double* arcPoint1,
@@ -1829,7 +1829,7 @@ void CDxfWrite::writeDiametricDimBlock(
 
 //***************************
 // writeBlocksSection
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeBlocksSection()
 {
     if (m_version < 14) {
@@ -1848,7 +1848,7 @@ void CDxfWrite::writeBlocksSection()
 
 //***************************
 // writeEntitiesSection
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeEntitiesSection()
 {
     std::stringstream ss;
@@ -1866,7 +1866,7 @@ void CDxfWrite::writeEntitiesSection()
 
 //***************************
 // writeObjectsSection
-// added by Wandererfan 2018 (wandererfan@gmail.com) for FreeCAD project
+// added by Wandererfan 2018 <wandererfan@gmail.com> for FreeCAD project
 void CDxfWrite::writeObjectsSection()
 {
     if (m_version < 14) {

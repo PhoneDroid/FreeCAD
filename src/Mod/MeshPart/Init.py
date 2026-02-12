@@ -2,10 +2,10 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # FreeCAD init script of the MeshPart module
-# (c) 2001 Juergen Riegel
+# (c) 2001 Jürgen Riegel
 
 # ***************************************************************************
-# *   Copyright (c) 2002 Juergen Riegel <juergen.riegel@web.de>             *
+# SPDX-FileCopyrightText: 2002 Jürgen Riegel <juergen.riegel@web.de>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

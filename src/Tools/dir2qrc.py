@@ -1,8 +1,9 @@
 #! python
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2007 Jürgen Riegel <Jürgen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# (c) 2007 Juergen Riegel GPL
+# (c) 2007 Jürgen Riegel GPL
 
 Usage = """dir2qrc - merging all files in a directory in a qrc file
 
@@ -22,9 +23,6 @@ Examples:
 
    dir2qrc  -v -o resource.qrc -d "d:/Develop/Resources"
 
-Author:
-  (c) 2007 Juergen Riegel
-  juergen.riegel@web.de
   Licence: GPL
 
 Version:

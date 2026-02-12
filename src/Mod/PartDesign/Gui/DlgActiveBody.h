@@ -1,10 +1,11 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2021 FreeCAD Developers
+// SPDX-FileCopyrightText: Ajinkya Dahale
 // SPDX-FileNotice: Part of the FreeCAD project.
 
+// *   Based on src/Gui/DlgAddProperty.h                                     *
+
 /**************************************************************************
- *   Copyright (c) 2021 FreeCAD Developers                                 *
- *   Author: Ajinkya Dahale                                                *
- *   Based on src/Gui/DlgAddProperty.h                                     *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

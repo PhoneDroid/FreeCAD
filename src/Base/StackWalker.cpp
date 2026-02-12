@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: 2005-2013 Jochen Kalmbach
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 // clang-format off
@@ -60,7 +61,6 @@
  *
  * LICENSE (http://www.opensource.org/licenses/bsd-license.php)
  *
- *   Copyright (c) 2005-2013, Jochen Kalmbach
  *   All rights reserved.
  *
  *   Redistribution and use in source and binary forms, with or without modification,

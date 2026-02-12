@@ -3,7 +3,7 @@
 
 # ***************************************************************************
 # *                                                                         *
-# *   Copyright (c) 2022 Yorik van Havre <yorik@uncreated.net>              *
+# SPDX-FileCopyrightText: 2022 Yorik van Havre <yorik@uncreated.net>
 # *                                                                         *
 # *   FreeCAD is free software: you can redistribute it and/or modify it    *
 # *   under the terms of the GNU Lesser General Public License as           *

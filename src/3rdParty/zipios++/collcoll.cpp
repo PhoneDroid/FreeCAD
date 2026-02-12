@@ -142,9 +142,10 @@ void CollectionCollection::getEntry( const string &name,
     Implementation of CollectionCollection.
 */
 
+// SPDX-FileCopyrightText: 2000 Thomas Søndergaard
+
 /*
   Zipios++ - a small C++ library that provides easy access to .zip files.
-  Copyright (C) 2000  Thomas Søndergaard
   
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public

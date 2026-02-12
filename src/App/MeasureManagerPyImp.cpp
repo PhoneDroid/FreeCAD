@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2023 David Friedli <david@friedli-be.ch>
+// SPDX-FileCopyrightText: 2023 Wandererfan <wandererfan@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2023 David Friedli <david@friedli-be.ch>                *
- *   Copyright (c) 2023 Wandererfan <wandererfan@gmail.com>                *
  *                                                                         *
  *   FreeCAD is free software: you can redistribute it and/or modify it    *
  *   under the terms of the GNU Lesser General Public License as           *

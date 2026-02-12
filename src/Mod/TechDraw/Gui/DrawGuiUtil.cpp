@@ -1,8 +1,8 @@
 // SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-FileCopyrightText: 2016 WandererFan <wandererfan@gmail.com>
+// SPDX-FileCopyrightText: 2024 Benjamin Bræstrup Sayoc <benj5378@outlook.com>
 
 /***************************************************************************
- *   Copyright (c) 2016 WandererFan <wandererfan@gmail.com>                *
- *   Copyright (c) 2024 Benjamin Bræstrup Sayoc <benj5378@outlook.com>     *
  *                                                                         *
  *   This library is free software; you can redistribute it and/or         *
  *   modify it under the terms of the GNU Library General Public           *

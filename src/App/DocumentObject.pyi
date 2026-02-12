@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Jürgen Riegel <FreeCAD@juergen-riegel.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -14,7 +15,6 @@ from typing import Any, Final, List, Optional, Union, Tuple
 class DocumentObject(ExtensionContainer):
     """
     This is the father of all classes handled by the document
-    Author: Juergen Riegel (FreeCAD@juergen-riegel.net)
     Licence: LGPL
     """
 

@@ -2,7 +2,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2023 Werner Mayer <wmayer[at]users.sourceforge.net>     *
+# SPDX-FileCopyrightText: 2023 Werner Mayer <wmayer@users.sourceforge.net>
 # *                                                                         *
 # *   FreeCAD is free software: you can redistribute it and/or modify it    *
 # *   under the terms of the GNU Lesser General Public License as           *

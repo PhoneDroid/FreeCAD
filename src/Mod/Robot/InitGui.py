@@ -1,14 +1,14 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# (c) 2009 Juergen Riegel
+# (c) 2009 Jürgen Riegel
 #
 # Gathering all the information to start FreeCAD
 # This is the second one of three init scripts, the third one
 # runs when the gui is up
 
 # ***************************************************************************
-# *   Copyright (c) 2009 Juergen Riegel <juergen.riegel@web.de>             *
+# SPDX-FileCopyrightText: 2009 Jürgen Riegel <juergen.riegel@web.de>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

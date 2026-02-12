@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: David Carter <dcarter@davidcarter.ca>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -19,7 +20,6 @@ class Material(BaseClass):
     """
     Material descriptions.
 
-    Author: David Carter (dcarter@davidcarter.ca)
     Licence: LGPL
     """
 

@@ -3,8 +3,8 @@
 
 # ***************************************************************************
 # *                                                                         *
-# *   Copyright (c) 2013 Yorik van Havre <yorik@uncreated.net>              *
-# *   Copyright (c) 2025 Furgo                                              *
+# SPDX-FileCopyrightText: 2013 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2025 Furgo
 # *                                                                         *
 # *   FreeCAD is free software: you can redistribute it and/or modify it    *
 # *   under the terms of the GNU Lesser General Public License as           *

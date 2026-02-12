@@ -1,11 +1,11 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2019 Dion Moult <dion@thinkmoult.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
 # *                                                                         *
-# *   Copyright (c) 2019 Dion Moult <dion@thinkmoult.com>                   *
-# *   Copyright (c) 2019 Yorik van Havre <yorik@uncreated.net>              *
-# *   Copyright (c) 2020 FreeCAD Developers                                 *
+# SPDX-FileCopyrightText: 2019 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2020 FreeCAD Developers
 # *                                                                         *
 # *   FreeCAD is free software: you can redistribute it and/or modify it    *
 # *   under the terms of the GNU Lesser General Public License as           *

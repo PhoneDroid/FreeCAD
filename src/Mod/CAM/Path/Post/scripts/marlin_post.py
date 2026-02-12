@@ -1,4 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# (c) sliptonic <shopinthewoods@gmail.com> 2014
+# (c) Gauthier Briere - 2018, 2019
+# (c) Schildkroet - 2019-2020
+# (c) Gary L Hasson - 2020
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # *****************************************************************************

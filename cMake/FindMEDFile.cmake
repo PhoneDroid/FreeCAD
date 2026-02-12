@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2007-2015 CEA/DEN
+# SPDX-FileCopyrightText: 2007-2015 EDF R&D
+# SPDX-FileCopyrightText: 2007-2015 OPEN CASCADE
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # - Find MED file installation
@@ -13,7 +16,6 @@
 #  guide the detection and indicate a root directory to look into.
 #
 ############################################################################
-# Copyright (C) 2007-2015  CEA/DEN, EDF R&D, OPEN CASCADE
 #
 # This library is free software; you can redistribute it and/or
 # modify it under the terms of the GNU Lesser General Public

@@ -1,10 +1,10 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2022 sliptonic <shopinthewoods@gmail.com>
+# SPDX-FileCopyrightText: 2022 Larry Woestman <LarryWoestman2@gmail.com>
+# SPDX-FileCopyrightText: 2024 Carl Slater <CandLWorkshopllc@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2022 sliptonic <shopinthewoods@gmail.com>               *
-# *   Copyright (c) 2022 Larry Woestman <LarryWoestman2@gmail.com>          *
-# *   Copyright (c) 2024 Carl Slater <CandLWorkshopllc@gmail.com>           *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

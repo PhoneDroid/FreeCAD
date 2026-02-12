@@ -1,8 +1,7 @@
 #! python
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2006 Jürgen Riegel <Jürgen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
-
-# (c) 2006 Jürgen Riegel  GPL
 
 import os
 import sys
@@ -24,9 +23,6 @@ Options:
 
 Generate source code out of an model definition.
 
-Author:
-  (c) 2006 Juergen Riegel
-  juergen.riegel@web.de
     Licence: GPL
 
 Version:

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2007 Jürgen Riegel <juergen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-#  Copyright (c) 2007 Jürgen Riegel <juergen.riegel@web.de>
 #  LGPL
 
 import os

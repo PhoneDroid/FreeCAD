@@ -1,8 +1,4 @@
-// File:        NCollection_Array1.hxx
-// Created:     15.04.02 17:05:16
-// Author:      Alexander Kartomin (akm)
-//              <a-kartomin@opencascade.com>
-// Copyright:   Open Cascade 2002
+// SPDX-FileCopyrightText: 2002 Alexander Kartomin <a-kartomin@opencascade.com>
 
 #ifndef SMESH_Array1_HeaderFile
 #define SMESH_Array1_HeaderFile

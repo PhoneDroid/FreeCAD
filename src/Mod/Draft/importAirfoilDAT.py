@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2010 Heiko Jakob <heiko.jakob@gediegos.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 ## @package importAirfoilDAT
@@ -15,7 +16,6 @@ This module provides support for importing airfoil .dat files.
 # flake8 --ignore=E226,E266,E401,W503
 
 # ***************************************************************************
-# *   Copyright (c) 2010 Heiko Jakob <heiko.jakob@gediegos.de>              *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

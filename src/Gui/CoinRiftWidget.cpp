@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 2014 Bastiaan Veelo <Bastiaan@Veelo.net>
+// SPDX-FileCopyrightText: 2014 Jürgen Riegel <FreeCAD@juergen-riegel.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /**************************************************************************
-* Copyright (c) 2014 Bastiaan Veelo <Bastiaan a_t Veelo d_o_t net>        *
-* Copyright (c) 2014 Jürgen Riegel <FreeCAD@juergen-riegel.net>           *
 *                                                                         *
 * All rights reserved. Contact me if the below is too restrictive for you.*
 *                                                                         *

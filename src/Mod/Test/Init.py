@@ -1,7 +1,7 @@
+# SPDX-FileCopyrightText: 2001,2002 Jürgen Riegel <juergen.riegel@web.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2001,2002 Juergen Riegel <juergen.riegel@web.de>        *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

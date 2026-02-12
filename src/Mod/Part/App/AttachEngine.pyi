@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: DeepSOIC <vv.titov@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -19,7 +20,6 @@ class AttachEngine(BaseClass):
     """
     AttachEngine abstract class - the functionality of AttachableObject, but outside of DocumentObject
 
-    Author: DeepSOIC (vv.titov@gmail.com)
     Licence: LGPL
     DeveloperDocu: AttachEngine abstract class
     """

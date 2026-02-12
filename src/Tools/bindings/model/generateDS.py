@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 # SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: 2003 Dave Kuhlman
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 ## LICENSE
-
-## Copyright (c) 2003 Dave Kuhlman
 
 ## Permission is hereby granted, free of charge, to any person obtaining
 ## a copy of this software and associated documentation files (the

@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from typing import Any, Final
@@ -17,7 +18,6 @@ class VoronoiCell(BaseClass):
     """
     Cell of a Voronoi diagram
 
-    Author: sliptonic (shopinthewoods@gmail.com)
     License: LGPL-2.1-or-later
     """
 

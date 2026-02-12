@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Werner Mayer <wmayer@users.sourceforge.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -20,7 +21,6 @@ class ArcOfConic2d(Curve2d):
     """
     Describes an abstract arc of conic in 2d space.
 
-    Author: Werner Mayer (wmayer[at]users.sourceforge.net)
     Licence: LGPL
     """
 

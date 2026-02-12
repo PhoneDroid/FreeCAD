@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2010 Stan Coleby <scoleby@intelisum.com>
+// SPDX-FileCopyrightText: 2020 PTC Inc.
+// SPDX-FileCopyrightText: 2022 Andy Maloney <asmaloney@gmail.com>
+
 /*
  * Copyright (c) 2010 Stan Coleby (scoleby@intelisum.com)
  * Copyright (c) 2020 PTC Inc.

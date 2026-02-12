@@ -1,7 +1,7 @@
 # SPDX-FileNotice: Part of the FreeCAD project.
+# SPDX-FileCopyrightText: 2023 Syres
 
 # ***************************************************************************
-# *   Copyright (c) 2023 Syres                                              *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

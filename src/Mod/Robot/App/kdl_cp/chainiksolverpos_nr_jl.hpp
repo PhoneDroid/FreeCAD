@@ -1,13 +1,10 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2007-2008 Ruben Smits <ruben.smits@mech.kuleuven.be>
+// SPDX-FileCopyrightText: 2008 Mikael Mayer
+// SPDX-FileCopyrightText: 2008 Julia Jesse
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-// Copyright  (C)  2007-2008  Ruben Smits <ruben dot smits at mech dot kuleuven dot be>
-// Copyright  (C)  2008  Mikael Mayer
-// Copyright  (C)  2008  Julia Jesse
-
 // Version: 1.0
-// Author: Ruben Smits <ruben dot smits at mech dot kuleuven dot be>
-// Maintainer: Ruben Smits <ruben dot smits at mech dot kuleuven dot be>
 // URL: http://www.orocos.org/kdl
 
 // This library is free software; you can redistribute it and/or

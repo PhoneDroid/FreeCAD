@@ -1,10 +1,9 @@
+# SPDX-FileCopyrightText: 2024 PMcB
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2015 Qingfeng Xia <qingfeng.xia()eng.ox.ac.uk>          *
-# *   Copyright (c) 2016 Bernd Hahnebach <bernd@bimstatik.org>              *
-# *   Copyright (c) 2024 PMcB                                               *
-# *   Copyright (c) 2025 PMcB                                               *
+# SPDX-FileCopyrightText: 2015 Qingfeng Xia <qingfeng.xia@eng.ox.ac.uk>
+# SPDX-FileCopyrightText: 2016 Bernd Hahnebach <bernd@bimstatik.org>
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2024 Shai Seger <shaise@gmail.com>
 
 /***************************************************************************
- *   Copyright (c) 2024 Shai Seger <shaise at gmail>                       *
  *                                                                         *
  *   This file is part of the FreeCAD CAx development system.              *
  *                                                                         *

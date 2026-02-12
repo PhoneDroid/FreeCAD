@@ -1,8 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2021 sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2021 sliptonic <shopinthewoods@gmail.com>               *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -30,7 +30,7 @@ __title__ = "Helix toolpath Generator"
 __author__ = "sliptonic (Brad Collette)"
 __url__ = "https://www.freecad.org"
 __doc__ = "Generates the helical toolpath for a single spot targetshape"
-__contributors__ = "russ4262 (Russell Johnson), Lorenz Hüdepohl"
+__contributors__ = "russ4262 <Russell Johnson>, Lorenz Hüdepohl"
 
 
 if False:

@@ -3,7 +3,7 @@
 
 // This file is released under the BSD license
 //
-// Copyright (c) 2009, Daniel Heeks
+// SPDX-FileCopyrightText: 2009, Daniel Heeks
 // All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without modification,

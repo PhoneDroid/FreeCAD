@@ -1,7 +1,8 @@
+// SPDX-FileCopyrightText: 2008 Barry A. Scott
+
 //
 //  CxxDebug.hxx
 //
-//  Copyright (c) 2008 Barry A. Scott
 //
 #ifndef __CXX_Debug_hxx
 #define __CXX_Debug_hxx

@@ -1,5 +1,5 @@
-// SPDX-FileCopyrightText: Copyright (c) Ken Martin, Will Schroeder, Bill Lorensen
-// SPDX-FileCopyrightText: Copyright (c) Kitware, Inc.
+// SPDX-FileCopyrightText: Ken Martin, Will Schroeder, Bill Lorensen
+// SPDX-FileCopyrightText: Kitware, Inc.
 // SPDX-License-Identifier: BSD-3-Clause
 // SPDX-FileNotice: Part of the FreeCAD project.
 

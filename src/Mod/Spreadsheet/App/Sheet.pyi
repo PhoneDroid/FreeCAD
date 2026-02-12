@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: Eivind Kvedalen <eivind@kvedalen.name>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 from __future__ import annotations
@@ -18,7 +19,6 @@ class Sheet(DocumentObject):
     """
     With this object you can manipulate spreadsheets
 
-    Author: Eivind Kvedalen (eivind@kvedalen.name)
     License: LGPL-2.1-or-later
     """
 

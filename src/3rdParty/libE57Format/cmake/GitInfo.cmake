@@ -1,6 +1,6 @@
+# SPDX-FileCopyrightText: 2020 C++ Modern Framework
+
 # ---------------------------------------------------------------------------- #
-#
-# Copyright (c) 2020 C++ Modern Framework
 #
 # https://github.com/cppmf/GitInfo.cmake
 #

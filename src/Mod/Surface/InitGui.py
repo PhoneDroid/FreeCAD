@@ -1,10 +1,10 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2014 Nathan Miller <Nathan.A.Mill@gmail.com>
+# SPDX-FileCopyrightText: 2014 Balázs Bámer
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # -*- coding: utf8 -*-
 # ***************************************************************************
-# *   Copyright (c) 2014 Nathan Miller <Nathan.A.Mill@gmail.com>            *
-# *   Copyright (c) 2014 Balázs Bámer                                       *
 # *                                                                         *
 # *   This library is free software; you can redistribute it and/or         *
 # *   modify it under the terms of the GNU Library General Public           *

@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
+// SPDX-FileCopyrightText: 2015 Eivind Kvedalen <eivind@kvedalen.name>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /***************************************************************************
- *   Copyright (c) 2015 Eivind Kvedalen (eivind@kvedalen.name)             *
  *                                                                         *
  *   This file is based on the Qt spreadsheet example code.                *
  *                                                                         *

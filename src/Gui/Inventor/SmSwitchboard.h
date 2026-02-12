@@ -3,8 +3,8 @@
 
 #pragma once
 
+// SPDX-FileCopyrightText: Kongsberg Oil & Gas Technologies AS
 /**************************************************************************\
- * Copyright (c) Kongsberg Oil & Gas Technologies AS
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

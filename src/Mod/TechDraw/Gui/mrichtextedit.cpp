@@ -1,10 +1,10 @@
+
+// SPDX-FileCopyrightText: 2013 Jiří Procházka (Hobrasoft)
+// SPDX-FileCopyrightText: 2013 Digia Plc and/or its subsidiary(-ies)
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
-** Copyright (C) 2013 Jiří Procházka (Hobrasoft)
 ** Contact: http://www.hobrasoft.cz/
-**
-** Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).
 ** Contact: http://www.qt-project.org/legal
 **
 ** $QT_BEGIN_LICENSE:LGPL$

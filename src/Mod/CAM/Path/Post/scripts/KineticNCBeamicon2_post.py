@@ -1,8 +1,9 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2014 sliptonic <shopinthewoods@gmail.com>
+# SPDX-FileCopyrightText: 2021 Samuel Mayer (samuel.mayer@posteo.de)
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # ***************************************************************************
-# *   Copyright (c) 2014 sliptonic <shopinthewoods@gmail.com>               *
 # *                                                                         *
 # *   This program is free software; you can redistribute it and/or modify  *
 # *   it under the terms of the GNU Lesser General Public License (LGPL)    *
@@ -23,8 +24,6 @@
 # ***************************************************************************/
 
 # ****************************************************************************
-# *   Modifications by Samuel Mayer (samuel.mayer@posteo.de)                 *
-# *   2021                                                                   *
 # *                                                                          *
 # *   This postprocessor is based on the linuxcnc_post coming with FreeCAD   *
 # *   0.19 and modified to work with Kinetic-NC (cnc-step.com) and Beamicon2 *

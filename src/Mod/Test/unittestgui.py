@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 1999,2000,2001 Steve Purcell
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 """
@@ -9,7 +10,6 @@ Further information is available in the bundled documentation, and from
 
   http://pyunit.sourceforge.net/
 
-Copyright (c) 1999, 2000, 2001 Steve Purcell
 This module is free software, and you may redistribute it and/or modify
 it under the same terms as Python itself, so long as this copyright message
 and disclaimer are retained in their original form.
