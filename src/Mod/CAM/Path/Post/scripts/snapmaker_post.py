@@ -3,23 +3,29 @@
 # SPDX-FileCopyrightText: 2025 Clair-Loup Sergent <clsergent@free.fr>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
+################################################################################
+#                                                                              #
+#   Licensed under the EUPL-1.2 with the specific provision EUPL               #
+#   articles 14 & 15 that the applicable law is the French law                 #
+#   and the Jurisdiction Paris.                                                #
+#                                                                              #
+#   Any redistribution must include the specific provision above.              #
+#                                                                              #
+#   You may obtain a copy of the License at:                                   #
+#   https://joinup.ec.europa.eu/software/page/eupl5                            #
+#                                                                              #
+#   Unless required by applicable law or agreed to in writing,                 #
+#   software distributed under the License is distributed on an                #
+#   "AS IS" basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,               #
+#   either express or implied.                                                 #
+#                                                                              #
+#   See the License for the specific language governing                        #
+#   permissions and limitations under the License.                             #
+#                                                                              #
+################################################################################
+
 # A FreeCAD postprocessor targeting Snapmaker machines with CNC capabilities
-# ***************************************************************************
-# *                                                                         *
-# *  Licensed under the EUPL-1.2 with the specific provision                *
-# *  (EUPL articles 14 & 15) that the applicable law is the French law.     *
-# *  and the Jurisdiction Paris.                                            *
-# *  Any redistribution must include the specific provision above.          *
-# *                                                                         *
-# *  You may obtain a copy of the Licence at:                               *
-# *  https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12 *
-# *                                                                         *
-# *  Unless required by applicable law or agreed to in writing, software    *
-# *  distributed under the Licence is distributed on an "AS IS" basis,      *
-# *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or        *
-# *  implied. See the Licence for the specific language governing           *
-# *  permissions and limitations under the Licence.                         *
-# ***************************************************************************
+
 
 
 import argparse
