@@ -1,10 +1,9 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2009 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2010 Ken Cline <cline@frii.com>
+# SPDX-FileCopyrightText: 2019 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# ***************************************************************************
-# *   (c) 2009 Yorik van Havre <yorik@uncreated.net>                        *
-# *   (c) 2010 Ken Cline <cline@frii.com>                                   *
-# *   (c) 2019 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>           *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -21,6 +20,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Provides the base classes for newer Draft Gui Commands."""
 ## @package gui_base
 # \ingroup draftguitools

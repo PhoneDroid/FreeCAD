@@ -1,8 +1,7 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# ***************************************************************************
-# *   (c) 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>           *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -19,6 +18,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Modules that define the workbench GuiCommands to perform graphical actions.
 
 These GUI Commands or tools are called by buttons, menus, contextual menus,

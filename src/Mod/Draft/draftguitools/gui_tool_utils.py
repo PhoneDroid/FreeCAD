@@ -1,10 +1,9 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# 2009 Yorik van Havre <yorik@uncreated.net>
+# 2010 Ken Cline <cline@frii.com>
+# 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# ***************************************************************************
-# *   (c) 2009 Yorik van Havre <yorik@uncreated.net>                        *
-# *   (c) 2010 Ken Cline <cline@frii.com>                                   *
-# *   (c) 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>           *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -21,6 +20,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Provides utility functions that are used by many Draft Gui Commands.
 
 These functions are used by different command classes in the `DraftTools`

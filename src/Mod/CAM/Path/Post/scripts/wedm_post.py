@@ -2,10 +2,6 @@
 # SPDX-FileCopyrightText: 2014 sliptonic <shopinthewoods@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# ***************************************************************************
-# *                                                                         *
-# *   Reabased changes from relative_post.py to linuxcnc_post.py            *
-# *   and updated functionality for old EDM machines by alromh87            *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -22,6 +18,9 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
+# Reabased changes from relative_post.py to linuxcnc_post.py
+# and updated functionality for old EDM machines by alromh87
 
 import FreeCAD
 from FreeCAD import Units

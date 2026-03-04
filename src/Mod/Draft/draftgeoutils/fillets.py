@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileCopyrightText: 2009,2010 Yorik van Havre <yorik@uncreated.net>
-# 📝 Jacques-Antoine Gaudin
+# SPDX-FileCopyrightText: Jacques-Antoine Gaudin
 # SPDX-FileCopyrightText: 2009,2010 Yorik van Havre <yorik@uncreated.net>
 # SPDX-FileCopyrightText: 2009,2010 Ken Cline <cline@frii.com>
 # SPDX-FileCopyrightText: Jacques-Antoine Gaudin

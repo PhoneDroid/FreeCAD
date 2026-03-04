@@ -1,11 +1,10 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2009,2010 Yorik van Havre <yorik@uncreated.net>
+# SPDX-FileCopyrightText: 2009,2010 Ken Cline <cline@frii.com>
+# SPDX-FileCopyrightText: 2019 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
+# SPDX-FileCopyrightText: 2020 Carlo Pavan <carlopa@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# ***************************************************************************
-# *   (c) 2009, 2010                                                        *
-# *   Yorik van Havre <yorik@uncreated.net>, Ken Cline <cline@frii.com>     *
-# *   (c) 2019 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>           *
-# *   (c) 2020 Carlo Pavan <carlopa@gmail.com>                              *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -22,6 +21,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Provides utility functions that deal with GUI interactions.
 
 This module contains auxiliary functions which can be used

@@ -1,9 +1,8 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2020 Carlo Pavan <carlopav@gmail.com
+# SPDX-FileCopyrightText: 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# ***************************************************************************
-# *   (c) 2020 Carlo Pavan <carlopav@gmail.com>                             *
-# *   (c) 2020 Eliud Cabrera Castillo <e.cabrera-castillo@tum.de>           *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -20,6 +19,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Modules that contain classes that define custom scripted objects.
 
 These proxy classes are used to extend one of the core classes
