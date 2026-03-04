@@ -3,8 +3,6 @@
 # SPDX-FileCopyrightText: 2015 Yorik van Havre <yorik@uncreated.net>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# -*- coding: utf8 -*-
-
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -21,6 +19,8 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
+# -*- coding: utf8 -*-
 
 __title__ = "FreeCAD File info utility"
 __author__ = "Yorik van Havre"

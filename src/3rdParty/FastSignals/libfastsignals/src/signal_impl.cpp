@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 #include "../include/fastsignals/signal_impl.h"
 #include <algorithm>
 #include <mutex>

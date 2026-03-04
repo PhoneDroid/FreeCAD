@@ -1,22 +1,27 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2014-2023 3Dconnexion
+// SPDX-FileNotice: Part of the FreeCAD project.
+
+/******************************************************************************
+ *                                                                            *
+ *   FreeCAD is free software: you can redistribute it and/or modify          *
+ *   it under the terms of the GNU Lesser General Public License as           *
+ *   published by the Free Software Foundation, either version 2.1            *
+ *   of the License, or (at your option) any later version.                   *
+ *                                                                            *
+ *   FreeCAD is distributed in the hope that it will be useful,               *
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty              *
+ *   of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                  *
+ *   See the GNU Lesser General Public License for more details.              *
+ *                                                                            *
+ *   You should have received a copy of the GNU Lesser General Public         *
+ *   License along with FreeCAD. If not, see https://www.gnu.org/licenses     *
+ *                                                                            *
+ ******************************************************************************/
 
 #ifndef CNavlibImpl_HPP_INCLUDED
 #define CNavlibImpl_HPP_INCLUDED
-// <copyright file="CNavlibImpl.hpp" company="3Dconnexion">
-// ------------------------------------------------------------------------------------------------
-// This file is part of the FreeCAD CAx development system.
-//
-// This source code is released under the GNU Library General Public License, (see "LICENSE").
-// ------------------------------------------------------------------------------------------------
-// </copyright>
-// <history>
-// ************************************************************************************************
-// File History
-//
-// $Id: CNavlibImpl.hpp 16062 2019-04-11 12:58:50Z mbonk $
-//
-// 05/25/20 MSB Fix C2280. Use std::static_pointer_cast<> instead of std::dynamic_pointer_cast<>.
-// </history>
+
 #include <SpaceMouse/CNavlibInterface.hpp>
 #include <SpaceMouse/IAccessors.hpp>
 #include <SpaceMouse/INavlib.hpp>

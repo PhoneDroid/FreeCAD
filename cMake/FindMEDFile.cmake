@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileCopyrightText: 2007-2015 CEA/DEN
 # SPDX-FileCopyrightText: 2007-2015 EDF R&D
 # SPDX-FileCopyrightText: 2007-2015 OPEN CASCADE

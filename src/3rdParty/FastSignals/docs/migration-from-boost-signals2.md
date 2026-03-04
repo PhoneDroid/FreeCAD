@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: MIT -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # Migration from Boost.Signals2
 
 This guide helps to migrate large codebase from Boost.Signals2 to `FastSignals` signals/slots library. It helps to solve known migration issues in the right way.

@@ -1,7 +1,9 @@
+// SPDX-License-Identifier: Artistic-2.0
+// SPDX-FileCopyrightText: Martin F. Krafft <libkdtree@pobox.madduck.net>
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 /** \file
  * Defines the allocator interface as used by the KDTree class.
- *
- * \author Martin F. Krafft <libkdtree@pobox.madduck.net>
  */
 
 #ifndef INCLUDE_KDTREE_ALLOCATOR_HPP

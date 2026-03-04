@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: LGPL-2.1-or-later -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # FreeCAD C++ to Python Binding System Manual
 
 Welcome to the new Python-based binding system for exposing FreeCAD C++ APIs to Python. This system replaces the previous XML-based approach with a more direct and flexible Python interface, allowing C++ developers to define Python bindings using native Python syntax, type annotations, and decorators.

@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: BSD-3-Clause -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # CRC++
 Easy to use and fast C++ CRC library.
 

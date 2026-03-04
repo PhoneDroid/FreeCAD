@@ -1,3 +1,4 @@
+@REM SPDX-License-Identifier: LGPL-2.1-or-later
 @REM SPDX-FileNotice: Part of the FreeCAD project.
 
 signtool.exe sign /f FCweborg.pfx /p FreeCADIsCool /fd sha512 /tr http://timestamp.digicert.com /td sha512 /v %1

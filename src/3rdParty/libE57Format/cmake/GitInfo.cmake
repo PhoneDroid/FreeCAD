@@ -1,4 +1,6 @@
+# SPDX-License-Identifier: BSL-1.0
 # SPDX-FileCopyrightText: 2020 C++ Modern Framework
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 # ---------------------------------------------------------------------------- #
 #

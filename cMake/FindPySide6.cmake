@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # The Qt for Python project officially recommends using pip to install PySide, so we expect to find PySide in the

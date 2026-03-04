@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2017 Stefan Tröger <stefantroeger@gmx.net>
 // SPDX-FileNotice: Part of the FreeCAD project.
 

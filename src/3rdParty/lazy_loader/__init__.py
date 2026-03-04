@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 """
 LazyLoader will defer import of a module until first usage. Usage:
 from lazy_loader.lazy_loader import LazyLoader

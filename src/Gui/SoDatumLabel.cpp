@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2011-2012 Luke Parry <l.parry@warwick.ac.uk>
 // SPDX-FileNotice: Part of the FreeCAD project.
 

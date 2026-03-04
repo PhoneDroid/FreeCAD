@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Artistic-2.0
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 #define KDTREE_DEFINE_OSTREAM_OPERATORS
 
 #include <kdtree++/kdtree.hpp>

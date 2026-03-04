@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
-// SPDX-FileNotice: Part of the FreeCAD project.
 // SPDX-FileCopyrightText: 2021-2023 FreeCAD Project Association
+// SPDX-FileNotice: Part of the FreeCAD project.
 
 /******************************************************************************
  *                                                                            *

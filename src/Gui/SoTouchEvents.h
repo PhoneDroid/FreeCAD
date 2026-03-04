@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2015 Victor Titov (DeepSOIC) <vv.titov@gmail.com>
 // SPDX-FileNotice: Part of the FreeCAD project.
 

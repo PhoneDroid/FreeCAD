@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 file(GLOB LIBFASTSIGNALS_SRC "${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp" "${CMAKE_CURRENT_SOURCE_DIR}/include/*.h")
 add_library(libfastsignals STATIC ${LIBFASTSIGNALS_SRC})

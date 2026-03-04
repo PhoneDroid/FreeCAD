@@ -1,8 +1,7 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: Kongsberg Oil & Gas Technologies AS
 // SPDX-FileNotice: Part of the FreeCAD project.
 
-#pragma once
-
-// SPDX-FileCopyrightText: Kongsberg Oil & Gas Technologies AS
 /**************************************************************************\
  * All rights reserved.
  *
@@ -33,6 +32,8 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 \**************************************************************************/
+
+#pragma once
 
 #include <Quarter/Basic.h>
 #include <Inventor/SbVec2s.h>

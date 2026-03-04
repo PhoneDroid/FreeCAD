@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: BSL-1.0
-# Copyright 2023 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileCopyrightText: 2023 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 # Note: In theory address sanitization should work on MSVC, but I could not get it working.
 # If you know how to fix it, please submit a PR:

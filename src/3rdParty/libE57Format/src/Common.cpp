@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: BSL-1.0
 // SPDX-FileCopyrightText: 2020 PTC Inc.
+// SPDX-FileNotice: Part of the FreeCAD project.
 
 #include "Common.h"
 

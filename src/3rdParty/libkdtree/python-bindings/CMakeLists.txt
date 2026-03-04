@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Artistic-2.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 find_package (SWIG REQUIRED)
 include (${SWIG_USE_FILE})
 

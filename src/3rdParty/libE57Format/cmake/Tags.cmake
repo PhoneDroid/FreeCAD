@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: BSL-1.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 # This file defines the variables
 # ${PROJECT_NAME}_BUILD_TAG
 

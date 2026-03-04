@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2024 Florian Foinant-Willig <ffw@2f2v.fr>
 // SPDX-FileNotice: Part of the FreeCAD project.
 

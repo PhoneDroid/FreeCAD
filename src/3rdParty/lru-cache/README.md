@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: MIT -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # lru-cache
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://goldsborough.mit-license.org) [![Build Status](https://travis-ci.org/goldsborough/lru-cache.svg?branch=master)](https://travis-ci.org/goldsborough/lru-cache)

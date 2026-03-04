@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 cmake_minimum_required(VERSION 3.10 FATAL_ERROR)
 
 project(FastSignals)

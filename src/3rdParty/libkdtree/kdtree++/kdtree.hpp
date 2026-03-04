@@ -1,7 +1,9 @@
+// SPDX-License-Identifier: Artistic-2.0
+// SPDX-FileCopyrightText: Martin F. Krafft <libkdtree@pobox.madduck.net>
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 /** \file
  * Defines the interface for the KDTree class.
- *
- * \author Martin F. Krafft <libkdtree@pobox.madduck.net>
  *
  * Paul Harris figured this stuff out (below)
  * Notes:

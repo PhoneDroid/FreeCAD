@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: BSL-1.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 find_package( Git QUIET )
 
 if ( GIT_FOUND AND EXISTS "${PROJECT_SOURCE_DIR}/.git" )

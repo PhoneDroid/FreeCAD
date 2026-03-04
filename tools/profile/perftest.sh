@@ -1,4 +1,5 @@
 #! /bin/bash
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 # Example file to drive the performance profiling python test from the shell.

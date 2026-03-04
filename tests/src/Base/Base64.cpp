@@ -1,7 +1,7 @@
+// SPDX-FileCopyrightText: 2004-2008 René Nyffenegger <rene.nyffenegger@adp-gmbh.ch>
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
-Copyright (C) 2004-2008 René Nyffenegger
 
 This source code is provided 'as-is', without any express or implied
 warranty. In no event will the author be held liable for any damages
@@ -21,7 +21,9 @@ freely, subject to the following restrictions:
 
 3. This notice may not be removed or altered from any source distribution.
 
-René Nyffenegger rene.nyffenegger@adp-gmbh.ch
+*/
+
+/*
 
 NOTICE: This test has been modified from the original code to remove output to stdout, and to split
 the tests into individual parts.

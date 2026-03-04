@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: MIT
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 # Taken from:
 # https://github.com/mapbox/logbt

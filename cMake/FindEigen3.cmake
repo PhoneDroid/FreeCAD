@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileCopyrightText: 2006,2007 Montel Laurent <montel@kde.org>
 # SPDX-FileCopyrightText: 2008,2009 Gael Guennebaud <g.gael@free.fr>
 # SPDX-FileCopyrightText: 2009 Benoit Jacob <jacob.benoit.1@gmail.com>

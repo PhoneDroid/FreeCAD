@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileCopyrightText: 2022 Zheng Lei <realthunder.dev@gmail.com>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
@@ -17,6 +18,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Auto code generator for parameters in Preferences/TreeView"""
 import sys
 from os import path

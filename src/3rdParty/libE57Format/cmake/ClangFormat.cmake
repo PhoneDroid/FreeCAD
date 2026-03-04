@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: BSL-1.0
-# Copyright 2020 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileCopyrightText: 2020 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 find_program( E57_CLANG_FORMAT_PROGRAM NAMES clang-format )
 

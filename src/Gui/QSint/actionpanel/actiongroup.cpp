@@ -1,12 +1,8 @@
 // SPDX-License-Identifier: LGPL-3.0-only
+// SPDX-FileCopyrightText: 2011 Sintegrial Technologies 
 // SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-FileNotice: https://code.google.com/p/qsint
 
-/***************************************************************************
- *                                                                         *
- *   Copyright: https://code.google.com/p/qsint/                           *
- *   License:   LGPL                                                       *
- *                                                                         *
- ***************************************************************************/
 #include "actiongroup.h"
 #include "taskheader_p.h"
 #include "taskgroup_p.h"

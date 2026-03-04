@@ -1,4 +1,5 @@
-// SPDX-FileCopyrightText: 1996-2000 Mark Lutz, O'Reilly & Associates
+// SPDX-FileCopyrightText: 1996-2000 Mark Lutz
+// SPDX-FileCopyrightText: O'Reilly & Associates
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 // clang-format off

@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: MIT -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # Why FastSignals?
 
 FastSignals is a C++17 signals/slots implementation which API is compatible with Boost.Signals2.

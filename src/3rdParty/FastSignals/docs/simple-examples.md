@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: MIT -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # Simple Examples
 
 >If you are not familar with Boost.Signals2, please read [Boost.Signals2: Connections](https://theboostcpplibraries.com/boost.signals2-connections)

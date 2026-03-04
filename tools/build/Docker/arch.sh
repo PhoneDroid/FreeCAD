@@ -1,4 +1,5 @@
 #!/bin/sh
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileNotice: Part of the FreeCAD project.
 
 pacman --noconfirm --sync boost boost-libs cmake coin curl desktop-file-utils doxygen \

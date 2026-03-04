@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # SPDX-FileCopyrightText: 1993-2015 Ken Martin
 # SPDX-FileCopyrightText: 1993-2015 Will Schroeder
 # SPDX-FileCopyrightText: 1993-2015 Bill Lorensen

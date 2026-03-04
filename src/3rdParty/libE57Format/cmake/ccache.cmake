@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: BSL-1.0
-# Copyright 2022 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileCopyrightText: 2022 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 # See: https://crascit.com/2016/04/09/using-ccache-with-cmake/
 find_program( CCACHE_PROGRAM ccache )

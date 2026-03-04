@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 # Function to add a library target.
 function(custom_add_library_from_dir TARGET)
     # Gather files from the current directory

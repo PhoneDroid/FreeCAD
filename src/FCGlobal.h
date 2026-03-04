@@ -18,6 +18,7 @@
  *   License along with FreeCAD. If not, see https://www.gnu.org/licenses     *
  *                                                                            *
  ******************************************************************************/
+ 
 /** \file FCGlobal.h
  *  \brief Include export or import macros.
  */

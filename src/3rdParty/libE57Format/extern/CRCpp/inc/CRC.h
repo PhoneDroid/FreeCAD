@@ -1,8 +1,11 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// SPDX-FileCopyrightText: 2022 Daniel Bahr
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 /**
     @file CRC.h
     @author Daniel Bahr
     @version 1.2.0.0
-    @copyright 2022 Daniel Bahr
     @parblock
         CRC++
         All rights reserved.

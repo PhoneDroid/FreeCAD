@@ -18,6 +18,7 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
 """Utilities for generating C++ code for parameter management using Python Cog"""
 
 import cog

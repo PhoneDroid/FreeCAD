@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2011 Jürgen Riegel <FreeCAD@juergen-riegel.net>
 // SPDX-FileCopyrightText: 2015 Alexander Golubev <fatzer2@gmail.com>
 // SPDX-FileCopyrightText: 2016 Stefan Tröger <stefantroeger@gmx.net>

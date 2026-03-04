@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2015 Pavel Strakhov <ri@idzaaus.org>
 // SPDX-FileCopyrightText: 2015 Eivind Kvedalen <eivind@kvedalen.name>
 // SPDX-FileNotice: Part of the FreeCAD project.

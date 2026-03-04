@@ -1,7 +1,9 @@
+// SPDX-License-Identifier: Artistic-2.0
+// SPDX-FileCopyrightText: Martin F. Krafft <libkdtree@pobox.madduck.net>
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 /** \file
  * Defines the interface of the _Region class.
- *
- * \author Martin F. Krafft <libkdtree@pobox.madduck.net>
  */
 
 #ifndef INCLUDE_KDTREE_REGION_HPP

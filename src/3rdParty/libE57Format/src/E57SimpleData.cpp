@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: BSL-1.0
 // SPDX-FileCopyrightText: 2020 PTC Inc.
 // SPDX-FileCopyrightText: 2022 Andy Maloney <asmaloney@gmail.com>
+// SPDX-FileNotice: Part of the FreeCAD project.
 
 // For M_PI. This needs to be first, otherwise we might already include math header without M_PI and
 // we would get nothing because of the header guards.

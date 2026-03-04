@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: BSL-1.0 -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # libE57Format Testing
 
 Testing uses the [GoogleTest](https://github.com/google/googletest) framework. The documentation for it may be [found here](https://google.github.io/googletest/).

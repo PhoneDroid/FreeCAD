@@ -1,8 +1,7 @@
 #! python
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2006 Jürgen Riegel
 # SPDX-FileNotice: Part of the FreeCAD project.
-
-# (c) 2006 Jürgen Riegel
 
 ################################################################################
 #                                                                              #

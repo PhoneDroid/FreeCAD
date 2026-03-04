@@ -1,8 +1,8 @@
+// SPDX-FileCopyrightText: 1992-2012 3Dconnexion
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
 Development tools and related technology provided under license from 3Dconnexion.
-(c) 1992 - 2012 3Dconnexion. All rights reserved
 */
 
 #pragma once

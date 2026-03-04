@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+# SPDX-License-Identifier: Artistic-2.0
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 TREE_TYPES = [(dim, "int", "unsigned long long", "i", "L") for dim in range(2,7)] + \
              [(dim, "float", "unsigned long long", "f", "L") for dim in range(2,7)]    

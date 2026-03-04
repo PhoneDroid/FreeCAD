@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Artistic-2.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 cmake_minimum_required (VERSION 2.8.12)
 project (libkdtree CXX)
 

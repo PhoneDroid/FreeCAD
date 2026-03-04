@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: BSL-1.0
-# Copyright 2022 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileCopyrightText: 2022 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 target_sources( ${PROJECT_NAME}
 	PRIVATE

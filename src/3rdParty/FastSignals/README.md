@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: MIT -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # FastSignals
 
 Yet another C++ signals and slots library

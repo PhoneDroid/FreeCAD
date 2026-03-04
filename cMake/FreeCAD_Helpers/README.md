@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: LGPL-2.1-or-later -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 This folder will contain an individual cmake file for each FreeCAD "helper".
 
 A "helper" should be a macro or function that tries (as much as possible) to adhere to the

@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 #pragma once
 
 #include "function_detail.h"

@@ -1,5 +1,6 @@
-# SPDX-License-Identifier: BSL-1.0
-# Copyright © Andy Maloney <asmaloney@gmail.com>
+# SPDX-License-Identifier: BSD-3-Clause
+# SPDX-FileCopyrightText: Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileNotice: Part of the FreeCAD project.
 
 # CRCpp from here: https://github.com/d-bahr/CRCpp
 

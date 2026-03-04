@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 SET(lazy_loader
     lazy_loader.py
     __init__.py

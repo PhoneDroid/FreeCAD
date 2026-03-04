@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2021 Chris Hennes <chennes@pioneerlibrarysystem.org>
 // SPDX-FileNotice: Part of the FreeCAD project.
 

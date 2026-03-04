@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 #import rpdb2
 #rpdb2.start_embedded_debugger("test")
 import FreeCAD

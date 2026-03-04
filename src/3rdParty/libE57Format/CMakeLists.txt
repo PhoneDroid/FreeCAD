@@ -1,11 +1,14 @@
+# SPDX-License-Identifier: BSL-1.0
+# SPDX-FileCopyrightText: 2010-2012 Roland Schwarz
+# SPDX-FileCopyrightText: 2010-2012 Riegl LMS GmbH
+# SPDX-FileCopyrightText: 2018-2023 Andy Maloney <asmaloney@gmail.com>
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 # This is a rewrite over time of the CMake file from the libe57 reference implementation
 #   https://en.wikipedia.org/wiki/Ship_of_Theseus
 #
 # Use git blame to see all the changes and who has contributed.
-#
-# Copyright 2018-2023 Andy Maloney <asmaloney@gmail.com>
-# Original work Copyright 2010-2012 Roland Schwarz, Riegl LMS GmbH
-#
+
 # Permission is hereby granted, free of charge, to any person or organization
 # obtaining a copy of the software and accompanying documentation covered by
 # this license (the "Software") to use, reproduce, display, distribute,

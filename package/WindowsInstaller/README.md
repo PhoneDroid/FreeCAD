@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: LGPL-2.1-or-later -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # Creating a Windows installer for FreeCAD
 
 These are instructions for building an NSIS-based installer for FreeCAD. They were designed for FreeCAD 0.21 and later,

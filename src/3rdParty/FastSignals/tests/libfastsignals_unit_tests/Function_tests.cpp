@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileNotice: Part of the FreeCAD project.
+
 #include "catch2/catch.hpp"
 #include <fastsignals/function.h>
 #include <array>

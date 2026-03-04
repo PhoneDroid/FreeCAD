@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: LGPL-2.1-or-later -->
 <!-- SPDX-FileNotice: Part of the FreeCAD project. -->
 
 <a href="https://freecad.org"><img src="/src/Gui/Icons/freecad.svg" height="100px" width="100px"></a>

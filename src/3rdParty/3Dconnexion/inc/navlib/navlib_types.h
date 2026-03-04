@@ -1,30 +1,29 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2014-2023 3Dconnexion
+// SPDX-FileNotice: Part of the FreeCAD project.
+
+/******************************************************************************
+ *                                                                            *
+ *   FreeCAD is free software: you can redistribute it and/or modify          *
+ *   it under the terms of the GNU Lesser General Public License as           *
+ *   published by the Free Software Foundation, either version 2.1            *
+ *   of the License, or (at your option) any later version.                   *
+ *                                                                            *
+ *   FreeCAD is distributed in the hope that it will be useful,               *
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty              *
+ *   of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                  *
+ *   See the GNU Lesser General Public License for more details.              *
+ *                                                                            *
+ *   You should have received a copy of the GNU Lesser General Public         *
+ *   License along with FreeCAD. If not, see https://www.gnu.org/licenses     *
+ *                                                                            *
+ ******************************************************************************/
+
+ // This header file describes the variable types used in the 3dconnexion navlib interface.
 
 #ifndef NAVLIB_TYPES_H_INCLUDED_
 #define NAVLIB_TYPES_H_INCLUDED_
-// <copyright file="navlib_types.h" company="3Dconnexion">
-// -------------------------------------------------------------------------------------------------
-// This file is part of the FreeCAD CAx development system.
-//
-// This source code is released under the GNU Library General Public License, (see "LICENSE").
-// -------------------------------------------------------------------------------------------------
-// </copyright>
-// <history>
-// *************************************************************************************************
-// File History
-//
-// $Id: navlib_types.h 20296 2023-07-12 06:07:32Z mbonk $
-//
-// 01/23/14 MSB Initial design
-// </history>
-// <description>
-// *************************************************************************************************
-// File Description
-//
-// This header file describes the variable types used in the 3dconnexion navlib interface.
-//
-// *************************************************************************************************
-// </description>
+
 #include <navlib/navlib_defines.h>
 
 #if (defined(_MSC_VER) && _MSC_VER < 1600)

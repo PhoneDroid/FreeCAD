@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
-// SPDX-FileCopyrightText: 1984, 1989-1990, 2000-2015, 2018-2021 Free Software Foundation, Inc.
+// SPDX-FileCopyrightText: 1984,1989-1990,2000-2015,2018-2021 Free Software Foundation, Inc.
 // SPDX-FileNotice: Part of the FreeCAD project.
 
 /* A Bison parser, made by GNU Bison 3.8.2.  */

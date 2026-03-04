@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: BSL-1.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 name: Build
 
 on: [push, pull_request]

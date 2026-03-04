@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: BSL-1.0 -->
+<!-- SPDX-FileNotice: Part of the FreeCAD project. -->
+
 # How To Contribute
 
 These are some of the things you can do to contribute to the project:

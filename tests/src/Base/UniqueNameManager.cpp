@@ -1,5 +1,6 @@
-// SPDX-FileNotice: Part of the FreeCAD project.
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2024 Kevin Martin <kpmartin@papertrail.ca>
+// SPDX-FileNotice: Part of the FreeCAD project.
 
 /******************************************************************************
  *                                                                            *
@@ -17,6 +18,7 @@
  *   License along with FreeCAD. If not, see https://www.gnu.org/licenses     *
  *                                                                            *
  ******************************************************************************/
+
 #include <gtest/gtest.h>
 #include <string>
 #include <Base/UniqueNameManager.h>

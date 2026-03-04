@@ -1,12 +1,7 @@
 # SPDX-License-Identifier: LGPL-2.1-or-later
+# SPDX-FileCopyrightText: 2003 Werner Mayer <werner.wm.mayer@gmx.de>
 # SPDX-FileNotice: Part of the FreeCAD project.
 
-# FreeCAD MakeNewBuildNbr script
-# (c) 2003 Werner Mayer
-#
-# Creates a new application
-
-# *   (c) Werner Mayer (werner.wm.mayer@gmx.de) 2003                        *
 ################################################################################
 #                                                                              #
 #   FreeCAD is free software: you can redistribute it and/or modify            #
@@ -23,6 +18,8 @@
 #   License along with FreeCAD. If not, see https://www.gnu.org/licenses       #
 #                                                                              #
 ################################################################################
+
+# Creates a new application
 
 import os, sys
 import MakeAppTools

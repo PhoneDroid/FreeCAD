@@ -1,4 +1,6 @@
+// SPDX-License-Identifier: MIT
 // SPDX-FileCopyrightText: 2022 Two Blue Cubes Ltd.
+// SPDX-FileNotice: Part of the FreeCAD project.
 
 /*
  *  Catch v2.13.10

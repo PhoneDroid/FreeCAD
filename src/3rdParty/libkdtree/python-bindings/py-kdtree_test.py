@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: Artistic-2.0
+# SPDX-FileNotice: Part of the FreeCAD project.
+
 #
 # $Id: py-kdtree_test.py 2268 2008-08-20 10:08:58Z richert $
 #

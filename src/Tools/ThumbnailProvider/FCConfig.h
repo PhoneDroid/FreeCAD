@@ -18,6 +18,7 @@
  *   License along with FreeCAD. If not, see https://www.gnu.org/licenses     *
  *                                                                            *
  ******************************************************************************/
+ 
 /** \file FCConfig.h
  *  \brief Include all needed defines and macros
  *  Here all defines and macro switching is done for FreeCAD.

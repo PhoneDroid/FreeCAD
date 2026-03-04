@@ -1,31 +1,30 @@
+// SPDX-License-Identifier: LGPL-2.1-or-later
 // SPDX-FileCopyrightText: 2014-2023 3Dconnexion
+// SPDX-FileNotice: Part of the FreeCAD project.
+
+/******************************************************************************
+ *                                                                            *
+ *   FreeCAD is free software: you can redistribute it and/or modify          *
+ *   it under the terms of the GNU Lesser General Public License as           *
+ *   published by the Free Software Foundation, either version 2.1            *
+ *   of the License, or (at your option) any later version.                   *
+ *                                                                            *
+ *   FreeCAD is distributed in the hope that it will be useful,               *
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty              *
+ *   of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                  *
+ *   See the GNU Lesser General Public License for more details.              *
+ *                                                                            *
+ *   You should have received a copy of the GNU Lesser General Public         *
+ *   License along with FreeCAD. If not, see https://www.gnu.org/licenses     *
+ *                                                                            *
+ ******************************************************************************/
+
+// This header file defines the operator overloads for 
+// variable types used in the 3dconnexion interface.
 
 #ifndef NAVLIB_OPERATORS_H_INCLUDED_
 #define NAVLIB_OPERATORS_H_INCLUDED_
-// <copyright file="navlib_operators.h" company="3Dconnexion">
-// -------------------------------------------------------------------------------------------------
-// This file is part of the FreeCAD CAx development system.
-//
-// This source code is released under the GNU Library General Public License, (see "LICENSE").
-// -------------------------------------------------------------------------------------------------
-// </copyright>
-// <history>
-// *************************************************************************************************
-// File History
-//
-// $Id: navlib_operators.h 19944 2023-01-25 14:56:02Z mbonk $
-//
-// 01/23/14 MSB Initial design
-// </history>
-// <description>
-// *************************************************************************************************
-// File Description
-//
-// This header file defines the operator overloads for variable types used in the 3dconnexion
-// interface.
-//
-// *************************************************************************************************
-// </description>
+
 #include <navlib/navlib_types.h>
 
 // stdlib
